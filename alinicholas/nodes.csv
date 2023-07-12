@@ -1,0 +1,361 @@
+root,root_node,,,,,,,,,,,,,,,,,,,,,,,,root,,root
+8dffcf89-bd19-4e98-8f9b-331763af83a4,Pressed Material,,,,,,,,,,,,,,,,,,,,,,,A material pressed with a pellet press set,material_template,,material_template
+5b480cad-599f-466e-acb2-7381d87c5399,Purchased Raw Material,,,,,,,,,,,,,,,,,,,,,,,A raw material purchased from a manufacturer,material_template,,material_template
+bbea2903-d403-41e3-803a-99120ac341d9,Heated Material,,,,,,,,,,,,,,,,,,,,,,,"A material produced from a Partlow heating process, whether for purification, synthesis or else",material_template,,material_template
+da1858ab-8d26-448c-b64f-687876cbc0dc,Chunked Material,,,,,,,,,,,,,,,,,,,,,,,A material chunked into small pieces to attain specific mass and/or volume,material_template,,material_template
+a6eedc72-0725-4d47-9d1f-125fc14362b5,Ground Material,,,,,,,,,,,,,,,,,,,,,,,A material ground into a powder,material_template,,material_template
+a2a4b868-588c-4a24-8f67-0ba5476e8ea4,Pressing Material,,,,,,,,,,,,,,,,,,,,,,,Pressing materials with pellet pressing equipment to transform into pellets,process_template,,process_template
+6637282e-c51a-466c-8502-cef0c5a56825,Heating,,,,,,,,,,,,,,,,,,,,,,,"Heating something in the box furnace with 
+                   a max temperature and tuning of ramp up/down",process_template,,process_template
+5056e434-37c0-408e-97d3-9c658a851f32,Chunking Material,,,,,,,,,,,,,,,,,,,,,,,"Chunking mass of a material to match some mass, volume or other characteristic",process_template,,process_template
+30c48a8b-9fc0-4655-a11a-b1f7dabfdcf4,Purchasing Raw Material,,,,,,,,,,,,,,,,,,,,,,,Purchasing any particular raw material from a manufacturer,process_template,,process_template
+da630073-4e03-474c-9dfb-4155fe5344d3,Setting Pellets,,,,,,,,,,,,,,,,,,,,,,,"Setting up pellets for experience with appropriate location, distance, or equipment specifications  ",process_template,,process_template
+0831649c-d4de-4729-b40d-e95fd9bbca51,Sealing Vessel,,,,,,,,,,,,,,,,,,,,,,,Sealing vessel of reaction according to desired lay out,process_template,,process_template
+ffb8cc1f-1ba2-42b9-88ad-2e7682cc958f,Quenching Tube,,,,,,,,,,,,,,,,,,,,,,,Removing tube from tube furnacew with tongs to grab the tube wrapped with wire and submerge in water,process_template,,process_template
+28d6f20f-c8ae-443e-90c5-795ea29aac85,Grinding Material,,,,,,,,,,,,,,,,,,,,,,,Grinding a material into a powder,process_template,,process_template
+ecd8f56f-dd33-4de4-b0a4-5a0cdfac0704,Temperature Measurement,,,,,,,,,,,,,,,,,,,,,,,Measuring the temperature of pellets (=temperature gradient of tube) in a tube furnace heating ,measurement_template,,measurement_template
+868198ab-566a-4eb5-9866-09a121d38014,X-Ray Diffraction,,,,,,,,,,,,,,,,,,,,,,,Applying x-ray diffraction to discover structure and properties of a material ,measurement_template,,measurement_template
+aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1,Duration,,0,96,hour,,,,,,,,,,,,,,,,,,,"Duration of any process, measurement, etc. In our case, it is often used for durations of dwell and ramp up/down times in heating phases, but can also be used to specify measurement/process duration",parameter_template,,parameter_template
+b106d015-b2bd-40f6-ae01-7b945567b2f0,Manufacturer,,,,,,,,,,,,,,,,,,,,,,,The name of the manufacturer from which a raw material was ordered,parameter_template,,parameter_template
+c837c92a-cbd0-4e6f-b976-9ffe1682ffdb,Furnace Temperature,,0,1100,degree_Celsius,,,,,,,,,,,,,,,,,,,The temperature of a heating phase in a furnace. Can be dynamic with a schedule or fixed like a pre-heating temperature,parameter_template,,parameter_template
+0471f9aa-d24d-4598-ac94-02c6dd1c8d1d,Equipment Used,,,,,,,,,,,,,,,,,,,,,,,A parameter describing the equipment used in a particular process or measurement,parameter_template,,parameter_template
+f1208f5d-1f89-4caf-9246-80bf9072a35b,Lot ID,,,,,,,,,,,,,,,,,,,,,,,The particular Lot of a material purchased from a manufacturer,parameter_template,,parameter_template
+7b383ee6-0886-4c64-8d32-6d2debfc12e2,Time of Event,,0,96,hour,,,,,,,,,,,,,,,,,,,"time at which an event occurs. Can be relative to the start/end of a process, or absolute, however specified",parameter_template,,parameter_template
+85546fe9-ce12-41fd-9c4f-b2d4a2b21986,Furnace Rate,,0,1100,degree_Celsius,,,,,,,,,,,,,,,,,,,The rate at which the furnace is heated/cooled during a heating phase,parameter_template,,parameter_template
+ada74071-1e76-4ba6-aaaf-3e7f09c2c806,Form,,,,,,,,,,,,,,,,,,,,,,,The form of a particular material,property_template,,property_template
+b7b81365-2d4e-41b5-8979-55f29f9186f0,Purity Percentage,,0.0,100.0,dimensionless,,,,,,,,,,,,,,,,,,,The purity of a particular material as a percentage (not defined in GEMD),property_template,,property_template
+431e116c-dbcf-4927-9100-7e175cdf0342,Atmosphere,,,,,,,,,,,,,,,,,,,,,,,A condition describing the atmosphere in which a process occurs,condition_template,,condition_template
+00de68f0-57d8-42fc-b5f4-4a1f21d7dc68,Location,,,,,,,,,,,,,,,,,,,,,,,A condition describing the location in which a process or measurement is performed,condition_template,,condition_template
+categorical 0,Alfa Aesar,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 1,Thermo Scientific,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 2,Yeemeida Technology Co. LTD,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 3,Mortar and Pestle,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 4,Nichrome Wire,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 5,Pellet Press Set,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 6,Quartz Tube,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 7,Quartz Wool,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 8,Thermocouple,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 9,Tongs,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 10,Torch,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 11,Tube Sealing Station,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 12,R04D028,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 13,R10H008,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 14,W19F006,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 15,X17C007,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 16,Amorphous,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 17,Chunk,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 18,Chunk and Powder,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 19,Crystal,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 20,Ingot,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 21,Pellet,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 22,Pieces,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 23,Powder,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 24,Powder -325 mesh,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 25,Solid,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 26,resublimed crystals,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 27,Air,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 28,Inner Atmosphere Glovebox,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 29,Bucket,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 30,Purification Tube Furnace,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 31,Synthesis Tube Furnace,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 32,Three Zones Tube Furnace,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+categorical 33,X-Ray Diffraction Panel,,,,,,,,,,,,,,,,,,,,,,,,categorical_bounds,,categorical_bounds
+94a5f1f0-18c7-42d3-b02b-974d58bab490,Synthesized NbSe2,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+7239a019-78c9-4340-aaa1-7387933c7c18,"Ground EuS, Nb and Se mix",,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+47397f33-41e7-4a63-95f9-9283e5b8e458,Sulfur,,,,,Purity Percentage,99.999,dimensionless,,,,,,,,,,,,,,,,,material_spec,,material_spec
+a1fccd98-7694-496d-aea0-6115d4a6cf50,Iodine,,,,,Purity Percentage,99.8,dimensionless,,,,,,,,,,,,,,,,,material_spec,,material_spec
+b60464fe-f0e2-4ec9-9440-2cddb3f92dbd,Ground Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+a0489646-8dd8-4fb2-9227-ac2fe06c96e2,EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+7b97c835-0c40-4cc5-abc1-b536805b5d38, Quenched EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+a280a971-97ea-4049-aabc-cc34028d38d5,Ground Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+732b48dd-d75e-447d-a0a3-374eb5fe733f,Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+9dbaf8ca-0411-4b83-93eb-3c3b1fc34761,Ground NbSe2 Mixture,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+14642d52-b6a9-410c-a277-fc2b926aee02, Quenched EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+769ad023-a2be-4fbf-9c48-74d73cc2bfbf,EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+d3600a63-02ff-416f-a167-b4e9270770ab,Chunked Europium,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+5a083bcc-b3d8-4793-a934-07915d8e4452,Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+53138410-9594-489f-8f84-be0b8f39d51d,Niobium,,,,,Purity Percentage,99.8,dimensionless,,,,,,,,,,,,,,,,,material_spec,,material_spec
+9cafa40b-443a-4be9-9f2d-dffa3cc8ee80,Selenium,,,,,Purity Percentage,99.999,dimensionless,,,,,,,,,,,,,,,,,material_spec,,material_spec
+409f13d9-c62d-4a58-8aab-2d17491669bf,Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+0eeeb22b-d0eb-47fa-a42c-8774c0ef3be1,Ground EuS and NbSe2 mix,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+375fc66a-9b79-4f70-911a-dac0b39ed202,EusNb2Se4 pellets (sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+4c61d449-f67d-40f1-899a-ea6a859704c3,EusNb2Se4 pellets,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+adf772cd-fa7c-4d52-917a-3faf8151fe83,EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+34a4e394-1915-4683-b2a6-a1a0dba2de4a,Ground Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+792465c3-270f-4644-84ef-a7dfc40f7795,EusNb2Se4 pellets,,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+d96873b0-7426-403b-8a0d-3eb5816e7c34,EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+7de47bbf-3329-47c4-adaa-f049f94b8e41,EusNb2Se4 pellets (sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_spec,,material_spec
+10e3ccfe-8ff0-4139-be1e-ef2b2fc7fd65,Europium,,,,,Purity Percentage,99.995,dimensionless,,,,,,,,,,,,,,,,,material_spec,,material_spec
+4b64c5aa-9cdb-4fdc-8b71-065c0c72ab6f,EusNb2Se4 pellets (sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+0db4a2d7-ee84-40de-891f-c18f8712e650,Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+c4640916-32a7-46f5-9581-4ef25c5e50e9,Niobium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+85f14511-68df-46ac-a612-23b5fa6ec25d,Ground Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+93caf0ed-04cf-45f7-a434-e36db463d36c,Ground Purified Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+3e90dbf4-7ec9-42b6-b558-31d44a0c90ee,Chunked Europium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+e01f395b-2e4e-4fed-8c60-effbb19dfca9,Purified Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+b055b900-25b6-4510-a294-ea0e6bb374b7,Ground EuS and NbSe2 mix Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+47ba4e29-2ac8-493f-818d-21f9acac74ed,Ground Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+cb813f67-1503-4e2a-a761-5cb0967ba1f2,Ground Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+a9846ca7-3414-4da7-acf7-656a596099ce,EusNb2Se4 pellets (heated in sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+9aec6466-52ea-4d32-a45a-f7ff123d1c06, Europium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+ddbd0dc6-c594-478c-b56a-c735693abfcb,Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+51145cb9-3635-43f0-b441-cb06dcd94bad,"Ground EuS, Nb and Se mix Ingredient",,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+08884a4a-8e00-4861-8ca4-f8f001c6a5ea,Niobium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+3242cbb2-fb6d-4246-80f6-8b1fef94b934,EusNb2Se4 pellets (vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+8e9d9c87-e8d4-4926-94ea-37a7944278be,Ground NbSe2 Mixture Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+5e3a322c-70e4-4024-888b-3a92fce47449,EusNb2Se4 pellets Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+3322faa3-b37a-4149-888b-f429566b3f32,Selenium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+f4f151a5-93b8-4012-8fca-4396006fea9f,EusNb2Se4 pellets Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+17701233-7557-4ca3-bc6c-295b7fe6bbc2,EusNb2Se4 pellets (heated in sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+4767698c-c078-40b3-bef1-cd43c67d52a3,Iodine Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+f5582503-17b5-4092-89df-f284a0cf5f35,Ground Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+f3ddea55-a248-4bc9-9b15-6791d49b6d90,Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+84ad56b5-6d9d-4644-8366-55592f1cb507,EusNb2Se4 pellets (vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+81046d91-0e99-4d9e-8ab0-422d5f772d28,Synthesized NbSe2 Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+b0348186-4b68-4c09-bbbb-120cea1e8465,EusNb2Se4 pellets (sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_spec,,ingredient_spec
+3ad6f87d-862f-47e3-87dd-4d9e2a52eeb1,Grinding Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+1603c6be-221e-4708-9b61-6bc15b456be8,Grinding Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+0902477f-1adf-49f6-9af7-aef1ff905d38,Heating EusNb2Se4 pellets (sealed vessel),,,,,dwell_1_time,72.0,hour,dwell_1_temperature,800.0,degree_Celsius,,,,,,,,,,,,,,process_spec,,process_spec
+bd5c60f1-51b9-4386-ac8d-a3d68a782864,Purchasing Sulfur,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+4ac91361-5354-4dee-ab20-053a026ccb2e,Purchasing Niobium,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+1eecf772-cafd-4bee-926c-d725b74901df, Quenching EusNb2Se4 pellets (heated in sealed vessel),,,,,Quenching Duration,15.0,second,,,,,,,,,,,,,,,,,process_spec,,process_spec
+3fdb9ec8-586e-471d-bd53-7c603d58dd5a,"Heating Chunked Europium,Ground Purified Sulfur",,,,,ramp_up_1_time,0.9,hour,ramp_up_1_rate,100.0,degree_Celsius,dwell_1_time,0.0,hour,dwell_1_temperature,90.0,degree_Celsius,ramp_up_2_time,0.8333333333333334,hour,ramp_up_2_rate,50.0,degree_Celsius,,process_spec,,process_spec
+8872785b-d55d-4132-98f2-3e2ffbf1c36b,Purchasing Europium,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+003cf75f-d6f2-44fb-ad4e-f6d255b54e92, Quenching EusNb2Se4 pellets (heated in sealed vessel),,,,,Quenching Duration,15.0,second,,,,,,,,,,,,,,,,,process_spec,,process_spec
+280044ac-120e-4fd0-bf33-039dc199ae98,Grinding Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+e095c54b-90fd-4e26-9b80-cbf38a2adcc0,Heating Ground NbSe2 Mixture,,,,,ramp_up_1_time,9.5,hour,ramp_up_1_rate,102.94117647058823,degree_Celsius,dwell_1_time,72.0,hour,dwell_1_temperature,875.0,degree_Celsius,ramp_down_1_time,4.0,hour,ramp_down_1_rate,0.0,degree_Celsius,,process_spec,,process_spec
+1b677cc3-b46e-4dab-8fa8-64f9473e9523,Setting of EusNb2Se4 pellets in Vessel,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+a8d66ef9-6aeb-4600-b70f-d0230da9475d,Heating EusNb2Se4 pellets (sealed vessel),,,,,dwell_1_time,72.0,hour,dwell_1_temperature,800.0,degree_Celsius,,,,,,,,,,,,,,process_spec,,process_spec
+c52ecbbd-f97f-4ff8-8b5a-ad9e17ec7055,Sealing EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+e235f9eb-1cbb-4431-be8d-c6498764949a,Pressing Ground EuS and NbSe2 mix,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+aeb4b7b9-2d67-4a4c-a504-b85f9a673144,Sealing EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+08ca83ca-a4f1-4125-afa2-3cab34b8e0f9,Heating Selenium,,,,,ramp_up_1_time,3.75,hour,ramp_up_1_rate,100.0,degree_Celsius,dwell_1_time,12.0,hour,dwell_1_temperature,400.0,degree_Celsius,ramp_down_1_time,3.75,hour,ramp_down_1_rate,100.0,degree_Celsius,,process_spec,,process_spec
+0d6a8cee-9095-4323-b611-e089d4eccfc3,"Grinding Ground Synthesized EuS,Niobium,Ground Purified Selinium",,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+2cb2e31b-a28d-44bd-b7b7-6edff038486c,Purchasing Iodine,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+b5cfe014-740b-44dd-b571-dc4e07b002d7,Setting of EusNb2Se4 pellets in Vessel,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+2c9da579-7263-4832-a000-14110d734b24,"Grinding Niobium,Ground Purified Selinium,Iodine",,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+43d9e08e-c4a0-4951-adfc-06c7cc42fb4a, Chunking Europium,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+467daa25-4c2c-46c5-a6e0-976a5fc9108b,Purchasing Selenium,,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+b899190d-8e2e-4273-8bee-ec0788ef847c,"Grinding Ground Synthesized EuS,Synthesized NbSe2",,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+b9237790-4823-4072-8b34-2e0bf1e24455,Heating Sulfur,,,,,ramp_up_1_time,1.5,hour,ramp_up_1_rate,50.0,degree_Celsius,dwell_1_time,12.0,hour,dwell_1_temperature,100.0,degree_Celsius,ramp_down_1_time,0.75,hour,ramp_down_1_rate,100.0,degree_Celsius,,process_spec,,process_spec
+065f2f3a-7b2b-4eb5-aa29-3f9cdd5bb631,"Pressing Ground EuS, Nb and Se mix",,,,,,,,,,,,,,,,,,,,,,,,process_spec,,process_spec
+92a8b271-a2cc-426c-8012-23567b733b3d,pre XRD characterization,,,,,,,,,,,,,,,,,,,,,,,,measurement_spec,,measurement_spec
+acc23932-2e03-4a70-92d6-44e71cff01a1,Fist temperature measurement,,,,,Time of Measurement,24.0,hour,,,,,,,,,,,,,,,,,measurement_spec,,measurement_spec
+16163754-ab31-46e1-bdb8-3279877203f2,Second temperature measurement,,,,,Time of Measurement,68.0,hour,,,,,,,,,,,,,,,,,measurement_spec,,measurement_spec
+b60a6f5e-5e9f-4e41-84d8-dbd1f6655c69,Second temperature measurement,,,,,Time of Measurement,68.0,hour,,,,,,,,,,,,,,,,,measurement_spec,,measurement_spec
+6fabe966-c885-414b-85f4-a0ca0916ad9c,EusNb2Se4 XRD characterization,,,,,,,,,,,,,,,,,,,,,,,,measurement_spec,,measurement_spec
+0361e0be-2490-4730-94d2-2a4c129fd89c,Fist temperature measurement,,,,,Time of Measurement,24.0,hour,,,,,,,,,,,,,,,,,measurement_spec,,measurement_spec
+07d2905e-c4b8-42e9-aa5b-4306a7592c4f,EusNb2Se4 XRD characterization,,,,,,,,,,,,,,,,,,,,,,,,measurement_spec,,measurement_spec
+e5de2faa-eb8a-4dc5-ae07-88ad536ee41f,EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+6bfe80f4-53dc-41a5-9c97-8d1b2860092a,EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+923cf7ec-ecb2-4ede-939a-e4672a541bb9,Ground EuS and NbSe2 mix,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+0af60f52-f1e3-4e4e-96e2-829830aac07a,EusNb2Se4 pellets,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+abf0b634-1699-46ce-adb6-5c7ef1e5dedc,Niobium,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+a4ad9fda-5f6b-4bd1-b5d8-ca66c4061b0c,EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+c2f19dfc-599f-4fbb-aea4-bc544057bc15,Chunked Europium,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+3baabacd-a036-4eaa-83d5-6863e4814b9c,Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+7874d4e5-4915-4984-87f8-fd5ca46e43b0,Ground NbSe2 Mixture,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+5c187bfc-aeec-4f60-a338-3808abe5c4fa,Ground NbSe2 Mixture,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+9fe40704-b969-40a4-8f82-98832bce5b02,Ground Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+717cf09d-44a8-4dc7-a6b9-b31f2bd488b8,Ground Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+c80827f8-435d-40ae-aefb-f05e64cc978d,Iodine,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+309c53b9-d5c5-4910-aa3f-6ef558c5a938,EusNb2Se4 pellets (quenched and cooled),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+edf40f5b-476a-44f3-876e-3739680ee09c,Ground Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+73a97770-1839-435d-9865-67202e11d886,Purified Selenium,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+9e0568f5-6e65-49b3-9d0c-0ffe52e102fa,EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_10,material_run
+9cd5e80f-f9e4-4326-95ad-b05c2f5687c9,Purchased Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+2dc34d88-797c-4125-8dba-a33070ad9360,Chunked Europium,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+26ebce56-1551-4daa-980a-bd1a04991406,Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+f9d1860e-a29c-48c3-942d-8fbda7a6881c,Synthesized NbSe2,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+b41dab9a-86fa-44e9-aa1e-5466310be6ef,"Ground, Purified Sulfur",,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+6f4ad594-21ad-4f21-8fd8-61bd1ae91e7d, Quenched EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+c8126f55-43e3-454b-81b6-ab766077aacd,EusNb2Se4 pellets (sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+e0c1a5a7-f2b9-4128-b5ee-2bffbbfea41f,Chunked Europium,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+2c29c60a-bbc7-46e3-8e8d-250f684ddc6c, Quenched EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+2f5e4f59-a48e-42a5-b650-dce774e6927e,Purchased Europium,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+347bfc18-9d00-4bc7-9fe6-9f49d419899e,EusNb2Se4 pellets (sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+a3292110-3078-4000-83f1-1cbb8544f0e1,EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+8531b711-3de1-4750-8236-070237ad2bcb,EusNb2Se4 pellets,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_10,material_run
+305b51b7-ce3c-483c-93af-f521e09bc460,Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+cd26a0f1-c742-4ab6-9610-42d3363c573d,Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+65a6fb88-9323-4cff-a98d-69fb615fd699,Ground Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+eb249688-45ec-46f7-a811-c69dee3f28d4,"Ground EuS, Nb and Se mix",,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+1954aac4-9bc5-4d7f-84c0-0ca85d631b27,Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+481fab23-5b5f-444c-abbc-4365b8852527,EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+49490429-71fd-4cbc-9d05-43cd438af633,Ground Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+10ea2881-0d61-4f25-b544-3c02bf338dc6,Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+2ca72352-ed82-4405-8e89-e725adeec114,Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+9fda6dc7-877f-4ea4-8088-dbfd3669d95d,Ground Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+397783e2-8412-4140-acc6-14031a294e7c,Selenium,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+7d45d50a-1ca0-4542-951a-d1863f27a9ff,Ground Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+71ac5277-60ae-4f90-a3c6-1447f33558d9,Ground Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+3fbda1d3-ef94-407d-9a3d-f7ee05764e83,Europium,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+020b6fcb-72b9-4e89-b3c8-9abad4eafc61,Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+ab33e68b-475f-4dc2-b96b-5fc3d373cdd7,"ground, synthesized EuS",,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+68561207-c7ce-4c99-90bd-ddd005f53963,"ground EuS, Nb and Se mix",,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+b4cd658e-1314-4e17-bd8d-085b50a1fc3a,EusNb2Se4 pellets (sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+708391c0-f12a-438d-b4c9-cb505fce7e79,"Ground, Purified Selenium",,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+58fc2d8d-60d2-43e7-aa80-9142f64693eb,EusNb2Se4 pellets (sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_10,material_run
+55d99f75-0080-4242-93bb-5a10bc6d6bba,Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+aa684896-12b2-4788-8a72-2d978690c5f4,EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+6de68019-0eb8-4f80-8ce7-d9ff8630bfff,EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_10,material_run
+3f5509ca-3099-4cfb-b197-5de8f63a7202,Purchased Iodine,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+0a7e12a5-094c-4d93-a94c-0a8696a7e24e,Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+c7e9431a-6600-40d8-9ac6-db38a7faf106,Ground EuS and NbSe2 mix,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+1c3ef916-0c5d-43e8-84fb-63f15abbd0ab,EusNb2Se4 pellets,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+77d347a0-9071-4f1f-a404-a98a7f18d858,Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_23,material_run
+9d666fb5-40de-4832-9a12-6442d2ae8996,Chunked Europium,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_13,material_run
+81291da6-7583-40cb-9888-5695b62bc2ac,Purchased Selenium,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+e95f2416-1249-4596-a9e9-e426dd880a06,Synthesized NbSe2,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+ce8d6453-d0d0-48ab-b3bd-65d7a058278e, Quenched EusNb2Se4 pellets (heated in sealed vessel),,,,,,,,,,,,,,,,,,,,,,,,material_run,01_10,material_run
+1f7313f0-2010-4f1a-ac39-de03af8e2c24,Purchased Niobium,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+f5078c65-8b0d-421e-8363-82eb7692a06c,Ground Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,material_run,,material_run
+76706eef-9f5f-4fdf-a463-1c530872d54b,Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+fb0f584f-9825-4ad4-b818-d79d8c65511c,EusNb2Se4 pellets,,,,,,,,,,,,,,,,,,,,,,,,material_run,01_20,material_run
+b9b40025-6892-403f-a65c-ed043ed5673d,EusNb2Se4 pellets (heated in sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+4433d824-107a-4d8b-aeb7-6e6ff37f8fbd,Niobium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+36f5b632-eb78-4550-88e1-c569c18b4e9f,Ground NbSe2 Mixture Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+837e7922-f865-430b-b0d0-90773ccf7f56,Ground Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+16cc58e0-ab8a-4af1-86cc-14f52b0b5639,"Ground EuS, Nb and Se mix Ingredient",,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+1a816960-7a97-454f-976e-83c0487638bc,Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+13de8a09-aa3b-413a-b622-32443578699e,EusNb2Se4 pellets Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+0a599d70-69d2-43fa-b2a3-7bb9fa3fdaf4,Chunked Europium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+d52ef262-712a-4ec0-b092-cbb867752b76,Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+4ea162ca-8d39-44bf-8c76-439bb164e0f8,Purified Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+d570d7d1-401a-4d5d-906c-ab7f03f3e228,EusNb2Se4 pellets Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+c5071972-d4f5-4ca6-9c1c-c82abedcbc9e,EusNb2Se4 pellets (sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_10,ingredient_run
+8114dcdf-831b-4335-bfa0-1a6faf2b27d3,"Ground EuS, Nb and Se mix Ingredient",,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+6a94a77a-f43b-42db-b1b4-53e8aacddc77,Purified Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+51b836b8-fdbd-4a17-99fb-07773a1b134d,Ground Purified Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+012fb7f1-54f0-4495-8492-4d521deaa8a5,EusNb2Se4 pellets (sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+c273174e-3e57-40d5-94f4-318bfd88f3dd,EusNb2Se4 pellets Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_10,ingredient_run
+d4492d34-ff10-403e-a68e-b3bca686a6d6,EusNb2Se4 pellets (heated in sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_10,ingredient_run
+06cd0318-d081-40d6-b1f5-e0efdcdf26f8, Europium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+858de70f-3708-47bb-bcb3-7d7be2fc4ef3,EusNb2Se4 pellets (vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+b825a604-30f5-433b-8cbc-a585ec3e71fe,Iodine Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+ce35b2eb-daab-4c8e-9f69-a8cb5b363bec,Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+4c1ad96c-b596-4097-a7e9-5c6f64ce235c,Ground Purified Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+55eb1865-1117-426d-b92a-ff49225cab68,Ground Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+9a66f0b5-0073-44d2-9a23-b1e982a2e8a7,Niobium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+c100943b-4655-4ca0-ad0c-99d1e338ef4f,EusNb2Se4 pellets (sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+d1716b03-2edf-4dd8-8054-993a750703be,Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+ac6dd7e1-70ae-425b-8dbb-52bd7c43ab51,Ground NbSe2 Mixture Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+59130eef-0b9d-49be-af8c-30902d1974ed,Selenium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+177efb85-6379-43ae-a385-ea97687b6d74,Selenium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+962953ba-efe3-4b38-a626-77b2ee8f75df,Chunked Europium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+62bf2e1c-c0d1-433a-a6f4-2ee8bf01300b,EusNb2Se4 pellets Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+65a26654-4f07-43d2-b313-c41060e5ef85,Ground Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+90ab5ba3-be56-4640-bc23-4b3dd99801bf,Purified Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+ea897f16-2d21-4f07-bd41-b9bd5b245197,Ground Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+fe92c9dd-972a-44f9-ad11-270526c2e441,Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+fd8d2dfe-0af5-4222-9d13-60f9c459b6e2, Europium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+e0f36f34-a674-4b16-8271-f0be543aa26e,Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+4a1fc8b8-d49b-4044-b902-2e4584fd247d,EusNb2Se4 pellets (heated in sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+3dd8a492-d934-4f47-b6e7-0b6638094289,Ground EuS and NbSe2 mix Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+125ef471-20cd-40c7-9888-7d7ae1de74ca,Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+707db2b8-4a35-4e10-8312-2251056dcd3a,EusNb2Se4 pellets (vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_10,ingredient_run
+8735afa5-f063-4b50-9c03-d044deb4906a,Ground Purified Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+8ae94f6d-c99d-4cd6-904b-09f92fd8e90d,Purified Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+76a1c623-c7e2-44a9-8891-32347b1ff940,EusNb2Se4 pellets (sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+c65a0eed-9818-4848-8223-1b150c01f6f1,Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+f1fc4493-f82a-43fe-adc2-4e707b2af82d,Chunked Europium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+8616ae4e-6bec-47a6-9d2e-238e4f95256d, Europium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+ba0339d2-c67f-44b7-8230-bd6c6bc5d77e,EusNb2Se4 pellets (heated in sealed vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+05f18a83-027e-44c2-b780-e2b05f4933ea,Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+222932f8-9c73-4707-bcce-bfad22e1e4dc,Niobium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+e3cb16eb-f924-49b6-9311-c26743ddae0b,Niobium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+f55b6a05-96e2-4522-a470-bf642f20acd2,Selenium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+d3de9c08-87cd-46fc-8a3f-a62780d997b6,Ground Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+3de294ff-70fb-4482-8599-13ac17a74404,Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+5105d714-4dee-434a-a6d8-37511905e670,Synthesized NbSe2 Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+4e2c1dd1-f10c-49b6-b7d1-12fc3f42da58,Synthesized NbSe2 Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+670ec51d-3c16-4a74-a467-efb8cdc624c7,EusNb2Se4 pellets (vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+6fbdbf9a-324a-475a-b22b-40941f741a12,EusNb2Se4 pellets (vessel) Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+bbcf0fb3-10d8-494e-b2aa-f81533966aa6,Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+675a4024-0afa-4c96-9013-f91b51d07472,Chunked Europium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+4460d8e6-e64f-45e5-8f0f-98beccebe62b, Europium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+a4d20ab7-655c-4fce-890f-acf3f4350a8e,Iodine Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+2f6e7a90-e7fe-4d14-951e-8b4bb0681dc6,Ground EuS and NbSe2 mix Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+32b9f00a-c1bc-4d67-9b7f-74d7b99abfad,Selenium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+b6866681-84a6-44fd-80f3-a353cffe8a54,Ground Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+005fff82-d01e-410b-ac15-0316648896f1,Ground Purified Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_20,ingredient_run
+f3f0fd1c-ec77-4057-9e98-89ca52926978,Sulfur Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_23,ingredient_run
+a48525e3-882d-4729-80a7-07af09346260,Ground Purified Selinium Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,,ingredient_run
+3abce915-9fdc-4f82-94bf-3d9b9a872239,Ground Synthesized EuS Ingredient,,,,,,,,,,,,,,,,,,,,,,,,ingredient_run,01_13,ingredient_run
+82965b6f-43e2-481a-99f2-48d82cd042cd,Grinding Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+bada7bac-99de-44a6-937a-73f070dee11f,Setting of EusNb2Se4 pellets in Vessel,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_10,process_run
+38f27829-64d2-4ccc-ab4c-99bd8c057a71,"Grinding EuS, Nb and Se",,,,,,,,,,,,,,,,,,,,,,,,process_run,01_13,process_run
+9ff862df-0ce6-4a39-b4c1-118b4f5cd7f0,Heating Selenium,,,,,ramp_up_1_time,3.75,hour,ramp_up_1_rate,100.0,degree_Celsius,dwell_1_time,12.0,hour,dwell_1_temperature,400.0,degree_Celsius,ramp_down_1_time,3.75,hour,ramp_down_1_rate,100.0,degree_Celsius,,process_run,01_23,process_run
+ff08afcb-6801-4935-aa9d-2a7348c71c42,Chunking Europium,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_13,process_run
+c871de89-98c2-4ed9-a9ac-43b2cb5e7a30,Heating Selenium,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+45a426e9-c8eb-415e-b7fb-ea98478614ee,"Heating Chunked Europium,Ground Purified Sulfur",,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+783cb8d5-e246-43e7-b79f-a34523adead5,Grinding Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+d1f703bb-13cb-4eae-8575-f7bbe784d88f,Heating Sulfur,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+7c397e07-b34c-41bb-acf4-fb877f5f099c,"Grinding Ground Synthesized EuS,Synthesized NbSe2",,,,,,,,,,,,,,,,,,,,,,,,process_run,01_23,process_run
+684445b0-d039-4181-b7fc-642d6a97b5fa, Chunking Europium,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+589762a7-3dd7-44b5-b92e-4c66ab28e289, Quenching EusNb2Se4 pellets (heated in sealed vessel),,,,,Quenching Duration,15.0,second,,,,,,,,,,,,,,,,,process_run,01_20,process_run
+0a18dd82-4baf-408f-b3cc-7ef4ce6c8bda,Heating Ground NbSe2 Mixture,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+65065b14-b240-4a37-9df1-ab7a19d5187f,Grinding synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_13,process_run
+26f7bd57-7054-41b3-843b-d4c4b8e96548,Purchasing Europium,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+5525bc03-7ed8-4551-b07a-c4fa1f0c5db8,Setting EusNb2Se4 vessel,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_13,process_run
+708c5f76-20d3-4511-b57a-ad4afb41e6ac,Grinding Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_20,process_run
+af010cb2-1135-46f5-8848-7a2b787ed9d6,Grinding Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_13,process_run
+2836469e-c644-4ff5-9875-a312bf11f860,Purchasing Niobium,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+be514bf8-c80f-45ad-9b99-e2c1d5955b23,Setting of EusNb2Se4 pellets in Vessel,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_20,process_run
+70894e5d-127c-4ea7-bdd6-c9bb80cff9df,"Heating Chunked Europium,Ground Purified Sulfur",,,,,ramp_up_1_time,0.9,hour,ramp_up_1_rate,100.0,degree_Celsius,dwell_1_time,0.0,hour,dwell_1_temperature,90.0,degree_Celsius,ramp_up_2_time,0.8333333333333334,hour,ramp_up_2_rate,50.0,degree_Celsius,,process_run,01_23,process_run
+76a861e9-3825-4b84-99ac-3be7058b1ac3,Grinding Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+8a51e5e1-a9f8-4e10-9c62-669df18089c2,Sealing EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,process_run,01_10,process_run
+1bc76ff9-bd22-433c-ba61-96b29e7e2892,EuS Synthesis,,,,,ramp_up_1_time,0.9,hour,ramp_up_1_rate,100.0,degree_Celsius,dwell_1_time,0.0,hour,dwell_1_temperature,90.0,degree_Celsius,ramp_up_2_time,0.8333333333333334,hour,ramp_up_2_rate,50.0,degree_Celsius,,process_run,01_13,process_run
+028fd1d3-ddad-4fab-b8e6-3795e2b7f353,Grinding Purified Selenium,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_13,process_run
+46ca2fd3-c1ec-450f-9162-5a2eb795a085,"Pressing Ground EuS, Nb and Se mix",,,,,,,,,,,,,,,,,,,,,,,,process_run,01_20,process_run
+94f6149f-b6bc-49d6-98e4-bd6ba7513d7d,"Heating Chunked Europium,Ground Purified Sulfur",,,,,ramp_up_1_time,0.9,hour,ramp_up_1_rate,100.0,degree_Celsius,dwell_1_time,0.0,hour,dwell_1_temperature,90.0,degree_Celsius,ramp_up_2_time,0.8333333333333334,hour,ramp_up_2_rate,50.0,degree_Celsius,,process_run,01_20,process_run
+58bbce6d-2805-4a4f-8395-16b7397855b3,Setting of EusNb2Se4 pellets in Vessel,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_23,process_run
+b50f5f85-64ea-41c5-afd1-4a01b2d6a3f7,"Grinding Niobium,Ground Purified Selinium,Iodine",,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+076ab772-ec4f-4f74-be15-19863dcc915f,Heating EusNb2Se4 pellets (sealed vessel),,,,,dwell_1_time,72.0,hour,dwell_1_temperature,800.0,degree_Celsius,,,,,,,,,,,,,,process_run,01_10,process_run
+f32551e7-bb9a-4d10-bc05-9df89e6bd2d0,Heating Sulfur,,,,,ramp_up_1_time,1.5,hour,ramp_up_1_rate,50.0,degree_Celsius,dwell_1_time,12.0,hour,dwell_1_temperature,100.0,degree_Celsius,ramp_down_1_time,0.75,hour,ramp_down_1_rate,100.0,degree_Celsius,,process_run,01_20,process_run
+995a8c49-888b-465a-8db5-9574b6fbc65c,Purifying Sulfur,,,,,ramp_up_1_time,1.5,hour,ramp_up_1_rate,50.0,degree_Celsius,dwell_1_time,12.0,hour,dwell_1_temperature,100.0,degree_Celsius,ramp_down_1_time,0.75,hour,ramp_down_1_rate,100.0,degree_Celsius,,process_run,01_13,process_run
+b2736f8b-a21f-4e94-beab-b021d67a24eb, Quenching EusNb2Se4 pellets (heated in sealed vessel),,,,,Quenching Duration,15.0,second,,,,,,,,,,,,,,,,,process_run,01_10,process_run
+1a73fa8f-55b9-4b08-8867-bd0d0d84153c,Sealing EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,process_run,01_23,process_run
+7a793728-5eeb-43c5-8477-04e3a6fbe9b2,Purchasing raw materials,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+1dfc9902-0e70-424c-9cd9-93ac9b9c3fb9,Sealing EusNb2Se4 pellets (vessel),,,,,,,,,,,,,,,,,,,,,,,,process_run,01_20,process_run
+3ec752f1-d62d-43cb-b1d5-303bc3dd89cd,Heating EusNb2Se4 pellets (sealed vessel),,,,,dwell_1_time,72.0,hour,dwell_1_temperature,800.0,degree_Celsius,,,,,,,,,,,,,,process_run,01_23,process_run
+0a150347-8a7e-4624-a121-37e813301291,"Grinding Ground Synthesized EuS,Synthesized NbSe2",,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+d6db3ca3-c4ec-4fe0-811a-9726a075f6ab,Heating Ground NbSe2 Mixture,,,,,ramp_up_1_time,9.5,hour,ramp_up_1_rate,102.94117647058823,degree_Celsius,dwell_1_time,72.0,hour,dwell_1_temperature,875.0,degree_Celsius,ramp_down_1_time,4.0,hour,ramp_down_1_rate,0.0,degree_Celsius,,process_run,01_23,process_run
+d959855e-9984-4c20-8b87-f6ee7cfba6c0, Chunking Europium,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_23,process_run
+c65c975c-3dac-4bdd-a5b1-d848bab0e3f0,Pressing EusNb2Se4 pellets,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_13,process_run
+55985e41-4afa-471d-84fe-054954c13c62,Grinding Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_23,process_run
+c102fe2d-446a-41d3-9fce-c691269fd381,Pressing Ground EuS and NbSe2 mix,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_23,process_run
+d917f2b6-f3bb-4257-94b5-0ad19e92eb3c,Grinding Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_20,process_run
+f00b7da6-9e64-4c73-a609-bb357be3e26e, Chunking Europium,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_20,process_run
+38c65095-19ac-4ea5-8105-760a95e2d84b,Pressing Ground EuS and NbSe2 mix,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_10,process_run
+07175059-b325-4237-ada4-939d50813e9c,Purchasing Sulfur,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+0afb2915-d60c-4087-a7d6-5d023f4379b7,Grinding Synthesized EuS,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_23,process_run
+bc4021eb-3039-4420-8546-1ddd9d2963e6,"Grinding Ground Synthesized EuS,Niobium,Ground Purified Selinium",,,,,,,,,,,,,,,,,,,,,,,,process_run,01_20,process_run
+797816cf-bba9-49e9-ba32-0c4ffaa6fe72,Grinding Purified Sulfur,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_20,process_run
+34fbdd88-4c2e-4df2-9edf-3cc34d2ccb32,Quenching EusNb2Se4 sealed vessel,,,,,Quenching Duration,15.0,second,,,,,,,,,,,,,,,,,process_run,01_13,process_run
+b37c555c-34f2-4340-b693-620aa723e299,Purifying Selenium,,,,,ramp_up_1_time,3.75,hour,ramp_up_1_rate,100.0,degree_Celsius,dwell_1_time,12.0,hour,dwell_1_temperature,400.0,degree_Celsius,ramp_down_1_time,3.75,hour,ramp_down_1_rate,100.0,degree_Celsius,,process_run,01_13,process_run
+bb106a9a-91af-42d4-9650-24df82cbde9b,Heating Selenium,,,,,ramp_up_1_time,3.75,hour,ramp_up_1_rate,100.0,degree_Celsius,dwell_1_time,12.0,hour,dwell_1_temperature,400.0,degree_Celsius,ramp_down_1_time,3.75,hour,ramp_down_1_rate,100.0,degree_Celsius,,process_run,01_20,process_run
+ba4f8d69-d1b8-49a6-93b6-5f665fd80eeb,Heating EusNb2Se4 vessel,,,,,dwell_1_time,72.0,hour,dwell_1_temperature,800.0,degree_Celsius,,,,,,,,,,,,,,process_run,01_13,process_run
+fd5c0fe0-7aae-49a9-9e3f-14e6b08c30dc,Heating Sulfur,,,,,ramp_up_1_time,1.5,hour,ramp_up_1_rate,50.0,degree_Celsius,dwell_1_time,12.0,hour,dwell_1_temperature,100.0,degree_Celsius,ramp_down_1_time,0.75,hour,ramp_down_1_rate,100.0,degree_Celsius,,process_run,01_23,process_run
+890e03d8-532c-40d6-bf78-f540fa9adbac, Quenching EusNb2Se4 pellets (heated in sealed vessel),,,,,Quenching Duration,15.0,second,,,,,,,,,,,,,,,,,process_run,01_23,process_run
+4dbd86fa-bd51-4f15-9502-6e2356bf371e,Heating EusNb2Se4 pellets (sealed vessel),,,,,dwell_1_time,72.0,hour,dwell_1_temperature,800.0,degree_Celsius,,,,,,,,,,,,,,process_run,01_20,process_run
+03e78884-82c4-41f2-ae2b-245913b89be6,Purchasing Selenium,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+e5f6a318-d616-4b44-b7b6-9547b73d2b25,"Grinding Niobium,Ground Purified Selinium,Iodine",,,,,,,,,,,,,,,,,,,,,,,,process_run,01_23,process_run
+7d514218-e17f-42b5-bdca-6c8815ee0cdb,Grinding Purified Selinium,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_23,process_run
+c42f7ad6-21f4-41d4-ba49-fa6c8f7c6e85,Purchasing Iodine,,,,,,,,,,,,,,,,,,,,,,,,process_run,,process_run
+44e5f093-a246-4ce9-b49d-1b02245222ac,Sealing EusNb2Se4 vessel,,,,,,,,,,,,,,,,,,,,,,,,process_run,01_13,process_run
+840212ee-2842-48ac-829f-f90d2096c159,Fist temperature measurement,,,,,Time of Measurement,24.0,hour,,,,,,,,,,,,,,,,,measurement_run,01_20,measurement_run
+0cef3247-05a0-4b22-8302-29302ba450a5,Second temperature measurement,,,,,Time of Measurement,68.0,hour,,,,,,,,,,,,,,,,,measurement_run,01_23,measurement_run
+910148f7-726a-4e9d-accc-455b80d36423,EusNb2Se4 XRD characterization,,,,,,,,,,,,,,,,,,,,,,,,measurement_run,01_20,measurement_run
+4b09bafc-37e4-4c97-b708-5cd0b263e660,Second temperature measurement,,,,,Time of Measurement,68.0,hour,,,,,,,,,,,,,,,,,measurement_run,01_20,measurement_run
+1f5b9707-3ecc-4440-a21e-0535ada95e95,Fist temperature measurement,,,,,Time of Measurement,24.0,hour,,,,,,,,,,,,,,,,,measurement_run,01_10,measurement_run
+8fa509e9-6b29-4d20-86fd-d865a7c79088,pre XRD characterization,,,,,,,,,,,,,,,,,,,,,,,,measurement_run,01_23,measurement_run
+ab1097bb-e6d6-4d46-a201-3c5435f0fc4d,First temperature measurement of pellets during heating process,,,,,Time of Measurement,24.0,hour,,,,,,,,,,,,,,,,,measurement_run,01_13,measurement_run
+db397399-a82a-41a0-8386-4deb7e7e8750,Second temperature measurement,,,,,Time of Measurement,68.0,hour,,,,,,,,,,,,,,,,,measurement_run,01_10,measurement_run
+1f4feda2-d7be-41e7-b0e6-4b956d22fc92,EusNb2Se4 XRD characterization,,,,,,,,,,,,,,,,,,,,,,,,measurement_run,01_10,measurement_run
+b5cca0d9-0ee5-4e34-93d9-6b3c0f7c0028,EusNb2Se4 XRD characterization,,,,,,,,,,,,,,,,,,,,,,,,measurement_run,01_23,measurement_run
+0a44a1da-fcaa-4ac8-a827-8d6ba9cd070d,Second temperature measurement of pellets during heating process,,,,,Time of Measurement,68.0,hour,,,,,,,,,,,,,,,,,measurement_run,01_13,measurement_run
+79fcc7d7-5fe8-4e52-81f7-17bf45c25c53,XRD characterization on final pellets,,,,,,,,,,,,,,,,,,,,,,,,measurement_run,01_13,measurement_run
+26538c25-2af9-426b-ad8b-2b5d2a0c01c9,pre XRD characterization,,,,,,,,,,,,,,,,,,,,,,,,measurement_run,01_20,measurement_run
+bcb078b5-e3cd-4a58-8c3b-88d3ed937bc9,early characterization of EuS crystal structure to match other reactive agents,,,,,,,,,,,,,,,,,,,,,,,,measurement_run,01_13,measurement_run
+f1981d47-3e3d-4f8b-8266-9cfd5dd68187,Fist temperature measurement,,,,,Time of Measurement,24.0,hour,,,,,,,,,,,,,,,,,measurement_run,01_23,measurement_run
