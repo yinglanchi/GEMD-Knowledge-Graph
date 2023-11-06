@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": " Quenched EusNb2Se4 pellets (heated in sealed vessel)",
+   "notes": null,
+   "process": {
+      "id": "1eecf772-cafd-4bee-926c-d725b74901df",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Pellet",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "8dffcf89-bd19-4e98-8f9b-331763af83a4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "7b97c835-0c40-4cc5-abc1-b536805b5d38"
+   }
+}

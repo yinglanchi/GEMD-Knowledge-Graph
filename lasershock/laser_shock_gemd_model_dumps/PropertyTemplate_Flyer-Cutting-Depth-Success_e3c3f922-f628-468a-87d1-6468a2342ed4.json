@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Complete", "Incomplete"], "type": "categorical_bounds"}, "description": "Are the flyers completely cut out?", "name": "Flyer Cutting Depth Success", "tags": [], "type": "property_template", "uids": {"auto": "e3c3f922-f628-468a-87d1-6468a2342ed4"}}

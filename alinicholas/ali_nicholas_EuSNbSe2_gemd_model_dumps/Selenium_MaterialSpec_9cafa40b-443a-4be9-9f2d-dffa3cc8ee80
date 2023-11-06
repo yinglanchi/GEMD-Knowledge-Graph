@@ -1,0 +1,63 @@
+{
+   "file_links": [],
+   "name": "Selenium",
+   "notes": null,
+   "process": {
+      "id": "467daa25-4c2c-46c5-a6e0-976a5fc9108b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Amorphous",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Purity Percentage",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "b7b81365-2d4e-41b5-8979-55f29f9186f0",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 99.999,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "5b480cad-599f-466e-acb2-7381d87c5399",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "9cafa40b-443a-4be9-9f2d-dffa3cc8ee80"
+   }
+}

@@ -1,0 +1,31 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [
+      [
+         {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "description": "Grinding a material into a powder",
+   "name": "Grinding Material",
+   "parameters": [
+      [
+         {
+            "id": "0471f9aa-d24d-4598-ac94-02c6dd1c8d1d",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "28d6f20f-c8ae-443e-90c5-795ea29aac85"
+   }
+}

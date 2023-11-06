@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "millivolt", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "Setting on the PDV seed signal laser booster amplifier", "name": "Booster Amp Setting", "tags": [], "type": "parameter_template", "uids": {"auto": "211be3bd-9d0c-4a0d-bbcb-9262ec626370"}}

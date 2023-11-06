@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "edf40f5b-476a-44f3-876e-3739680ee09c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Ground Purified Sulfur Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "45a426e9-c8eb-415e-b7fb-ea98478614ee",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "93caf0ed-04cf-45f7-a434-e36db463d36c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "4c1ad96c-b596-4097-a7e9-5c6f64ce235c"
+   },
+   "volume_fraction": null
+}

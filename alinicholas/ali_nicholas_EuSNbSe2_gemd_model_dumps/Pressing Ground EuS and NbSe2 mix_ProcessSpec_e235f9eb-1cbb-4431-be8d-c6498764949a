@@ -1,0 +1,51 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Atmosphere",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "431e116c-dbcf-4927-9100-7e175cdf0342",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Inner Atmosphere Glovebox",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [],
+   "name": "Pressing Ground EuS and NbSe2 mix",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "Equipment Used",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "0471f9aa-d24d-4598-ac94-02c6dd1c8d1d",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "Pellet Press Set",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "a2a4b868-588c-4a24-8f67-0ba5476e8ea4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "e235f9eb-1cbb-4431-be8d-c6498764949a"
+   }
+}

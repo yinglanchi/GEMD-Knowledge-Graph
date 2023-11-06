@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Purchasing Europium",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "8872785b-d55d-4132-98f2-3e2ffbf1c36b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "26f7bd57-7054-41b3-843b-d4c4b8e96548"
+   }
+}

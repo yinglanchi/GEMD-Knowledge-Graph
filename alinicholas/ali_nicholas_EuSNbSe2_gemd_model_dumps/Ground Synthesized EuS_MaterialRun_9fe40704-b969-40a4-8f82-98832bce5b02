@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "Ground Synthesized EuS",
+   "notes": null,
+   "process": {
+      "id": "d917f2b6-f3bb-4257-94b5-0ad19e92eb3c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "34a4e394-1915-4683-b2a6-a1a0dba2de4a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "9fe40704-b969-40a4-8f82-98832bce5b02"
+   }
+}

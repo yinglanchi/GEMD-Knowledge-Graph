@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Purchased Iodine",
+   "notes": null,
+   "process": {
+      "id": "7a793728-5eeb-43c5-8477-04e3a6fbe9b2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "a1fccd98-7694-496d-aea0-6115d4a6cf50",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "3f5509ca-3099-4cfb-b197-5de8f63a7202"
+   }
+}

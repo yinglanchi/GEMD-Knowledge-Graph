@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["0.10", "0.25", "0.50", "1.0", "15", "3.0", "30", "35", "45", "6.0", "60", "9.0"], "type": "categorical_bounds"}, "description": "Grit of the diamond pad used to polish an impact sample", "name": "Diamond Grit", "tags": [], "type": "parameter_template", "uids": {"auto": "1df7e07d-3d7b-4bdc-84d9-d6ff9328ab43"}}

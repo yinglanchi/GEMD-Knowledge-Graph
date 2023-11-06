@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Off", "On"], "type": "categorical_bounds"}, "description": "Is the vacuum on?", "name": "Check Vacuum", "tags": [], "type": "condition_template", "uids": {"auto": "bb1093c2-4850-4ead-a3d5-c81b3997196b"}}

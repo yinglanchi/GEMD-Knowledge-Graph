@@ -1,0 +1,19 @@
+{
+   "bounds": {
+      "categories": [
+         "Bucket",
+         "Purification Tube Furnace",
+         "Synthesis Tube Furnace",
+         "Three Zones Tube Furnace",
+         "X-Ray Diffraction Panel"
+      ],
+      "type": "categorical_bounds"
+   },
+   "description": "A condition describing the location in which a process or measurement is performed",
+   "name": "Location",
+   "tags": [],
+   "type": "condition_template",
+   "uids": {
+      "auto": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68"
+   }
+}

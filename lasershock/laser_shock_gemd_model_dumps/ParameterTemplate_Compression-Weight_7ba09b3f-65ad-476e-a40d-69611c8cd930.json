@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "pound", "lower_bound": 0, "type": "real_bounds", "upper_bound": 500}, "description": "How many pounds of force should be used to compress a glass/epoxy/foil stack while the epoxy cures", "name": "Compression Weight", "tags": [], "type": "parameter_template", "uids": {"auto": "7ba09b3f-65ad-476e-a40d-69611c8cd930"}}

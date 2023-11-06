@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "oersted",
+        "lower_bound": -140000,
+        "type": "real_bounds",
+        "upper_bound": 140000
+    },
+    "description": null,
+    "name": "Measured magnetic field",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "ffef5dcc-7357-49ba-8a40-820beb12fd50"
+    }
+}

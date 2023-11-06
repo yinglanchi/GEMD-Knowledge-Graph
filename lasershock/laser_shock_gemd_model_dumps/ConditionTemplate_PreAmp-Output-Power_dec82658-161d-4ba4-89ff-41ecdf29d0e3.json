@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "The output power of the preamplifier used in the PDV system (units of decibel-milliwatts, dBm, not recognized by GEMD)", "name": "PreAmp Output Power", "tags": [], "type": "condition_template", "uids": {"auto": "dec82658-161d-4ba4-89ff-41ecdf29d0e3"}}

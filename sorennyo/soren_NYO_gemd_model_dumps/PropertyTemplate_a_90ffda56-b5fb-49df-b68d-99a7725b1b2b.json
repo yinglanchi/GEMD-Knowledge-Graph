@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "angstrom",
+        "lower_bound": 0,
+        "type": "real_bounds",
+        "upper_bound": 100
+    },
+    "description": null,
+    "name": "a",
+    "tags": [],
+    "type": "property_template",
+    "uids": {
+        "auto": "90ffda56-b5fb-49df-b68d-99a7725b1b2b"
+    }
+}

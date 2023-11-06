@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Kapton Included Adhesive", "Loctite 460"], "type": "categorical_bounds"}, "description": "The adhesive used to attach an impact sample to a flyer/spacer in a Launch Package", "name": "Sample Attachment Adhesive", "tags": [], "type": "parameter_template", "uids": {"auto": "e2303de1-5295-40b8-b09f-57afd2c374ab"}}

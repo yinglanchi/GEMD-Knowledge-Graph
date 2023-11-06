@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Femtosecond Laser", "Laser Cutter"], "type": "categorical_bounds"}, "description": "The tool used to cut out a set of flyers", "name": "Cutting Tool", "tags": [], "type": "condition_template", "uids": {"auto": "e9aa963a-1469-4aab-9cd3-e6631f15dc81"}}

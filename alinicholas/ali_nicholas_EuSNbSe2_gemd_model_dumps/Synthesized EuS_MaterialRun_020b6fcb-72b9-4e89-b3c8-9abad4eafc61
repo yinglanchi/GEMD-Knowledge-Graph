@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Synthesized EuS",
+   "notes": null,
+   "process": {
+      "id": "45a426e9-c8eb-415e-b7fb-ea98478614ee",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "5a083bcc-b3d8-4793-a934-07915d8e4452",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "020b6fcb-72b9-4e89-b3c8-9abad4eafc61"
+   }
+}

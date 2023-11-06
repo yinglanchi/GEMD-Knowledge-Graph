@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["10", "100", "2", "20", "200", "5", "50"], "type": "categorical_bounds"}, "description": "The voltage range setting on the oscilloscope (mV/div, categorical bc it's a dropdown menu)", "name": "Oscilloscope Range", "tags": [], "type": "parameter_template", "uids": {"auto": "7e6d11dc-ceb3-4c84-9c2a-fc302cbf5618"}}

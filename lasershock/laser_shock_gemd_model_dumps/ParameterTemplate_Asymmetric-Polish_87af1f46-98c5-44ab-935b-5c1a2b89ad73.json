@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["No", "Yes"], "type": "categorical_bounds"}, "description": "Was the impact sample polished asymmetrically?", "name": "Asymmetric Polish", "tags": [], "type": "parameter_template", "uids": {"auto": "87af1f46-98c5-44ab-935b-5c1a2b89ad73"}}

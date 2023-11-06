@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "inch", "lower_bound": 0, "type": "real_bounds", "upper_bound": 50}, "description": "The length of the Foil", "name": "Foil Length", "tags": [], "type": "property_template", "uids": {"auto": "a4019571-4a9f-43eb-9abd-0c9f40348d29"}}

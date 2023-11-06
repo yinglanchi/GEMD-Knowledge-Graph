@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "EusNb2Se4 pellets (heated in sealed vessel)",
+   "notes": null,
+   "process": {
+      "id": "3ec752f1-d62d-43cb-b1d5-303bc3dd89cd",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "d96873b0-7426-403b-8a0d-3eb5816e7c34",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "e5de2faa-eb8a-4dc5-ae07-88ad536ee41f"
+   }
+}

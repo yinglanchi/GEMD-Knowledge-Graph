@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "millitorr",
+        "lower_bound": 0,
+        "type": "real_bounds",
+        "upper_bound": 1000000.0
+    },
+    "description": null,
+    "name": "Measured pressure",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "261185e0-4737-451a-9bbb-d07c74d51bf5"
+    }
+}

@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["AluFoil", "McMaster Carr"], "type": "categorical_bounds"}, "description": "The name of a supplier from which a foil was procured", "name": "Foil Supplier", "tags": [], "type": "parameter_template", "uids": {"auto": "56e2ff93-32e6-4de3-93d7-d363c13d8164"}}

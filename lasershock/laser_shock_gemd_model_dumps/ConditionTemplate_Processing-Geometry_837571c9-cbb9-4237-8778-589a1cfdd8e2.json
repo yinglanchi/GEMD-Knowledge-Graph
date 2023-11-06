@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Billet", "Foil", "Plate"], "type": "categorical_bounds"}, "description": "Possible values in the \"Processing Geometry\" menu buttons in the \"Sample\" layout", "name": "Processing Geometry", "tags": [], "type": "condition_template", "uids": {"auto": "837571c9-cbb9-4237-8778-589a1cfdd8e2"}}

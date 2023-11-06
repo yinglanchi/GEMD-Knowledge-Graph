@@ -1,0 +1,1 @@
+{"bounds": {"lower_bound": 0, "type": "integer_bounds", "upper_bound": 30}, "description": "How long a two-part epoxy is rested for after mixing (integer number of minutes)", "name": "Resting Time", "tags": [], "type": "parameter_template", "uids": {"auto": "7ea6b37b-c1d5-4a53-a567-5eff48d7d982"}}

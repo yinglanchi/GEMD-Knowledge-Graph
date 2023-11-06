@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "77d347a0-9071-4f1f-a404-a98a7f18d858",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Purified Sulfur Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "55985e41-4afa-471d-84fe-054954c13c62",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "e01f395b-2e4e-4fed-8c60-effbb19dfca9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "4ea162ca-8d39-44bf-8c76-439bb164e0f8"
+   },
+   "volume_fraction": null
+}

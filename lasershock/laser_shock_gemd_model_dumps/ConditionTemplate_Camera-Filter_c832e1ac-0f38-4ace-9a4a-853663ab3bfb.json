@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["647 CWL/10 FWHM", "648 CWL/20 FWHM"], "type": "categorical_bounds"}, "description": "The filter used on the high speed camera", "name": "Camera Filter", "tags": [], "type": "condition_template", "uids": {"auto": "c832e1ac-0f38-4ace-9a4a-853663ab3bfb"}}

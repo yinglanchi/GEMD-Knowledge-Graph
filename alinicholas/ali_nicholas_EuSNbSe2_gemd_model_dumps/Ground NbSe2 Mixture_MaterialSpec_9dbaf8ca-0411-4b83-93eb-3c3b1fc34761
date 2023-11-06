@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "Ground NbSe2 Mixture",
+   "notes": null,
+   "process": {
+      "id": "2c9da579-7263-4832-a000-14110d734b24",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Powder",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "a6eedc72-0725-4d47-9d1f-125fc14362b5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "9dbaf8ca-0411-4b83-93eb-3c3b1fc34761"
+   }
+}

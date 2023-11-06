@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["10", "20", "50"], "type": "categorical_bounds"}, "description": "The time range setting on the oscilloscope (us/div, categorical bc it's a dropdown menu)", "name": "Time per Div", "tags": [], "type": "parameter_template", "uids": {"auto": "76512ad1-1167-4f8e-8c89-8744437ed9f7"}}

@@ -1,0 +1,27 @@
+{
+   "description": "A raw material purchased from a manufacturer",
+   "name": "Purchased Raw Material",
+   "properties": [
+      [
+         {
+            "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ],
+      [
+         {
+            "id": "b7b81365-2d4e-41b5-8979-55f29f9186f0",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "material_template",
+   "uids": {
+      "auto": "5b480cad-599f-466e-acb2-7381d87c5399"
+   }
+}

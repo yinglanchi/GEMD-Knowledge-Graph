@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["No", "Yes"], "type": "categorical_bounds"}, "description": "Did the spall velocity plateau?", "name": "Check Plateau", "tags": [], "type": "property_template", "uids": {"auto": "137db6ff-77e0-4d1b-b8d1-183d668fa56e"}}

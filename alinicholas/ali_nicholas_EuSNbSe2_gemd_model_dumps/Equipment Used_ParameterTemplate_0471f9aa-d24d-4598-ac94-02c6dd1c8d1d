@@ -1,0 +1,23 @@
+{
+   "bounds": {
+      "categories": [
+         "Mortar and Pestle",
+         "Nichrome Wire",
+         "Pellet Press Set",
+         "Quartz Tube",
+         "Quartz Wool",
+         "Thermocouple",
+         "Tongs",
+         "Torch",
+         "Tube Sealing Station"
+      ],
+      "type": "categorical_bounds"
+   },
+   "description": "A parameter describing the equipment used in a particular process or measurement",
+   "name": "Equipment Used",
+   "tags": [],
+   "type": "parameter_template",
+   "uids": {
+      "auto": "0471f9aa-d24d-4598-ac94-02c6dd1c8d1d"
+   }
+}

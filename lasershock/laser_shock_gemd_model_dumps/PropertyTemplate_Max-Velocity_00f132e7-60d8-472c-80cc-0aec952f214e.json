@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "meter / second", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 3000.0}, "description": "Maximum velocity measured using PDV", "name": "Max Velocity", "tags": [], "type": "property_template", "uids": {"auto": "00f132e7-60d8-472c-80cc-0aec952f214e"}}

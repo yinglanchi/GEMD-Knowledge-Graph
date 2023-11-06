@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1}, "description": null, "name": "y", "tags": [], "type": "parameter_template", "uids": {"auto": "4ebdaa86-1a0c-4cab-863e-b50b0dbe437b"}}

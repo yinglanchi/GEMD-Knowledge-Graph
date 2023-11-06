@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "oersted", "lower_bound": -1000000.0, "type": "real_bounds", "upper_bound": 1000000.0}, "description": null, "name": "Set magnetic field", "tags": [], "type": "parameter_template", "uids": {"auto": "8e37e21a-8b62-44fc-b62d-2aa98e1c0915"}}

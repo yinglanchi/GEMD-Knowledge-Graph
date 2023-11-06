@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "millisecond", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "The exposure time used for the beam profiler", "name": "Beam Profiler Exposure", "tags": [], "type": "parameter_template", "uids": {"auto": "710504ee-96bc-44dd-8dce-36ae00d52a4f"}}

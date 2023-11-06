@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Minor", "None", "Significant"], "type": "categorical_bounds"}, "description": "Amount of tilt observed for a flyer", "name": "Flyer Tilt", "tags": [], "type": "property_template", "uids": {"auto": "a2a0c266-26a1-413f-b962-4850ab5a5153"}}

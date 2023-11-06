@@ -1,0 +1,57 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [
+      [
+         {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "description": "Heating something in the box furnace with \n                   a max temperature and tuning of ramp up/down",
+   "name": "Heating",
+   "parameters": [
+      [
+         {
+            "id": "c837c92a-cbd0-4e6f-b976-9ffe1682ffdb",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         {
+            "default_units": "degree_Celsius",
+            "lower_bound": 0.0,
+            "type": "real_bounds",
+            "upper_bound": 1050.0
+         }
+      ],
+      [
+         {
+            "id": "85546fe9-ce12-41fd-9c4f-b2d4a2b21986",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         {
+            "default_units": "degree_Celsius",
+            "lower_bound": 0.0,
+            "type": "real_bounds",
+            "upper_bound": 1050.0
+         }
+      ],
+      [
+         {
+            "id": "aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "6637282e-c51a-466c-8502-cef0c5a56825"
+   }
+}

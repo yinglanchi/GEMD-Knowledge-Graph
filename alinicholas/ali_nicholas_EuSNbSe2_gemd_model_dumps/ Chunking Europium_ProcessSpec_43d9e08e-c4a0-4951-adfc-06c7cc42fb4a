@@ -1,0 +1,34 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Atmosphere",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "431e116c-dbcf-4927-9100-7e175cdf0342",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Inner Atmosphere Glovebox",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [],
+   "name": " Chunking Europium",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "5056e434-37c0-408e-97d3-9c658a851f32",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "43d9e08e-c4a0-4951-adfc-06c7cc42fb4a"
+   }
+}

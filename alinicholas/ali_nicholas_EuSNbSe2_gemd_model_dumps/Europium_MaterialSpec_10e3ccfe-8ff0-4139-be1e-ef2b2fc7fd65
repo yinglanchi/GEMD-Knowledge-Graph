@@ -1,0 +1,63 @@
+{
+   "file_links": [],
+   "name": "Europium",
+   "notes": null,
+   "process": {
+      "id": "8872785b-d55d-4132-98f2-3e2ffbf1c36b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Ingot",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Purity Percentage",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "b7b81365-2d4e-41b5-8979-55f29f9186f0",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 99.995,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "5b480cad-599f-466e-acb2-7381d87c5399",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "10e3ccfe-8ff0-4139-be1e-ef2b2fc7fd65"
+   }
+}

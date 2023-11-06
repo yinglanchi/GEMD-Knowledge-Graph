@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Continuous", "Pulsed"], "type": "categorical_bounds"}, "description": "Whether something is cut using a laser in pulsed or continuous mode", "name": "Cutting Method", "tags": [], "type": "condition_template", "uids": {"auto": "df41d078-bec4-4a22-8079-e5b65ece716a"}}

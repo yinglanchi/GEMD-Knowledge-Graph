@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "EusNb2Se4 pellets (heated in sealed vessel)",
+   "notes": null,
+   "process": {
+      "id": "0902477f-1adf-49f6-9af7-aef1ff905d38",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Pellet",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "bbea2903-d403-41e3-803a-99120ac341d9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "adf772cd-fa7c-4d52-917a-3faf8151fe83"
+   }
+}

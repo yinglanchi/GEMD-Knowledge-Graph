@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "dimensionless",
+        "lower_bound": -1000000000000000.0,
+        "type": "real_bounds",
+        "upper_bound": 1000000000000000.0
+    },
+    "description": null,
+    "name": "Displacement",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "628f80d2-f153-4a33-b830-aa779cd9364d"
+    }
+}

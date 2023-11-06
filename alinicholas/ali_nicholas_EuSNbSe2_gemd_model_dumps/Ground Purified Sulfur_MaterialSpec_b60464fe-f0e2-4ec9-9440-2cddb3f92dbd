@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "Ground Purified Sulfur",
+   "notes": null,
+   "process": {
+      "id": "280044ac-120e-4fd0-bf33-039dc199ae98",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Powder",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "a6eedc72-0725-4d47-9d1f-125fc14362b5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "b60464fe-f0e2-4ec9-9440-2cddb3f92dbd"
+   }
+}

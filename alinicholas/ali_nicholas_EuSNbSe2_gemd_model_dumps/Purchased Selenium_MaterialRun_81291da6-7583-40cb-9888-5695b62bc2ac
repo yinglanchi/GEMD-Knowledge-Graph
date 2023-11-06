@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Purchased Selenium",
+   "notes": null,
+   "process": {
+      "id": "7a793728-5eeb-43c5-8477-04e3a6fbe9b2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "9cafa40b-443a-4be9-9f2d-dffa3cc8ee80",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "81291da6-7583-40cb-9888-5695b62bc2ac"
+   }
+}

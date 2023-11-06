@@ -1,0 +1,46 @@
+{
+   "conditions": [],
+   "file_links": [
+      {
+         "filename": "XRD Panel",
+         "type": "file_link",
+         "url": "photos/equipment/xrd_panel.jpg"
+      },
+      {
+         "filename": "pre-XRD on Tube 1",
+         "type": "file_link",
+         "url": "xrd/ML_Spider_pre_20230120_1_NN_EuSSynthesis_Tube1_5-60_4min.raw"
+      },
+      {
+         "filename": "pre-XRD on Tube 2",
+         "type": "file_link",
+         "url": "xrd/ML_Spider_pre_20230120_1_NN_EuSSynthesis_Tube2_5-60_4min.raw"
+      }
+   ],
+   "material": {
+      "id": "9fe40704-b969-40a4-8f82-98832bce5b02",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "pre XRD characterization",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": {
+      "performed_by": "nng3@jhu.edu",
+      "performed_date": "01/20",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "92a8b271-a2cc-426c-8012-23567b733b3d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "26538c25-2af9-426b-ad8b-2b5d2a0c01c9"
+   }
+}

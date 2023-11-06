@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "millitorr", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 100000.0}, "description": "The pressure in the vacuum chamber used to hold the launch package in place", "name": "Base Pressure", "tags": [], "type": "condition_template", "uids": {"auto": "fef7d0fc-042b-42bc-90d2-65f5fa53f5fc"}}

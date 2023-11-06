@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "Ground Purified Selinium",
+   "notes": null,
+   "process": {
+      "id": "708c5f76-20d3-4511-b57a-ad4afb41e6ac",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "a280a971-97ea-4049-aabc-cc34028d38d5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "717cf09d-44a8-4dc7-a6b9-b31f2bd488b8"
+   }
+}

@@ -1,0 +1,63 @@
+{
+   "file_links": [],
+   "name": "Iodine",
+   "notes": null,
+   "process": {
+      "id": "2cb2e31b-a28d-44bd-b7b7-6edff038486c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "resublimed crystals",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Purity Percentage",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "b7b81365-2d4e-41b5-8979-55f29f9186f0",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 99.8,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "5b480cad-599f-466e-acb2-7381d87c5399",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "a1fccd98-7694-496d-aea0-6115d4a6cf50"
+   }
+}

@@ -1,0 +1,103 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Location",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Three Zones Tube Furnace",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Atmosphere",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "431e116c-dbcf-4927-9100-7e175cdf0342",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Air",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [
+      {
+         "filename": "EuSNb2Se4 synthesis",
+         "type": "file_link",
+         "url": "photos/sample_notecards/01_13_2023.jpg"
+      },
+      {
+         "filename": "Three Zones Tube Furnace",
+         "type": "file_link",
+         "url": "photos/equipment/three_zone_tube_furnace.jpg"
+      }
+   ],
+   "name": "Heating EusNb2Se4 vessel",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "dwell_1_time",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 72.0,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "dwell_1_temperature",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "c837c92a-cbd0-4e6f-b976-9ffe1682ffdb",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 800.0,
+            "type": "nominal_real",
+            "units": "degree_Celsius"
+         }
+      }
+   ],
+   "source": {
+      "performed_by": "nng3@jhu.edu",
+      "performed_date": "01/13",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "0902477f-1adf-49f6-9af7-aef1ff905d38",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "ba4f8d69-d1b8-49a6-93b6-5f665fd80eeb"
+   }
+}

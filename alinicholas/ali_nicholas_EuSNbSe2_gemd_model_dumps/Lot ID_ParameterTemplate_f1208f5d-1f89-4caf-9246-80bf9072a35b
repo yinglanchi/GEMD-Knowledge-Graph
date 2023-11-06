@@ -1,0 +1,18 @@
+{
+   "bounds": {
+      "categories": [
+         "R04D028",
+         "R10H008",
+         "W19F006",
+         "X17C007"
+      ],
+      "type": "categorical_bounds"
+   },
+   "description": "The particular Lot of a material purchased from a manufacturer",
+   "name": "Lot ID",
+   "tags": [],
+   "type": "parameter_template",
+   "uids": {
+      "auto": "f1208f5d-1f89-4caf-9246-80bf9072a35b"
+   }
+}

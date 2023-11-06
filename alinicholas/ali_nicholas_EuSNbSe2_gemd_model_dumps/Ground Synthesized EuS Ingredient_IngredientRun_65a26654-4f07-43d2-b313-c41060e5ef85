@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "65a6fb88-9323-4cff-a98d-69fb615fd699",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Ground Synthesized EuS Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "7c397e07-b34c-41bb-acf4-fb877f5f099c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "f5582503-17b5-4092-89df-f284a0cf5f35",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "65a26654-4f07-43d2-b313-c41060e5ef85"
+   },
+   "volume_fraction": null
+}

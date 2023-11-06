@@ -1,0 +1,63 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Location",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "X-Ray Diffraction Panel",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [
+      {
+         "filename": "XRD Panel",
+         "type": "file_link",
+         "url": "photos/equipment/xrd_panel.jpg"
+      },
+      {
+         "filename": "pre-XRD on Tube 1",
+         "type": "file_link",
+         "url": "xrd/ML_Spider_pre_20230113_1_NN_EuSSynthesis_Tube1_5-60_4min.raw"
+      },
+      {
+         "filename": "pre-XRD on Tube 2",
+         "type": "file_link",
+         "url": "xrd/ML_Spider_pre_20230113_1_NN_EuSSynthesis_Tube2_5-60_4min.raw"
+      }
+   ],
+   "material": {
+      "id": "ab33e68b-475f-4dc2-b96b-5fc3d373cdd7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "early characterization of EuS crystal structure to match other reactive agents",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": {
+      "performed_by": "nng3@jhu.edu",
+      "performed_date": "01/13",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "92a8b271-a2cc-426c-8012-23567b733b3d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "bcb078b5-e3cd-4a58-8c3b-88d3ed937bc9"
+   }
+}

@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "categories": [
+            "105"
+        ],
+        "type": "categorical_bounds"
+    },
+    "description": "The focal length of the camera used (units are mm, but this is categorical bc it's a dropdown)",
+    "name": "Camera Lens",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "b17ee3c2-3af0-4c5c-930c-896e465f4880"
+    }
+}

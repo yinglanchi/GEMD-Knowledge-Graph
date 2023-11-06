@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["ECAE", "Rolling"], "type": "categorical_bounds"}, "description": "Possible values in the \"Processing\" check boxes in the \"Sample\" layout", "name": "Material Processing", "tags": [], "type": "condition_template", "uids": {"auto": "411ce26e-0566-4a6c-a49d-8d6242e779a5"}}

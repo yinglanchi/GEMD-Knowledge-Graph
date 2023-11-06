@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["1Bc+3Bc", "4Bc", "Aged", "Solutionized"], "type": "categorical_bounds"}, "description": "Possible values in the \"Processing Route\" dropdown menu in the \"Sample\" layout", "name": "Processing Route", "tags": [], "type": "parameter_template", "uids": {"auto": "f4447c45-8746-4a8e-9817-08745b3c54ad"}}

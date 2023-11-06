@@ -1,0 +1,52 @@
+{
+    "allowed_labels": [],
+    "allowed_names": [],
+    "conditions": [
+        [
+            {
+                "id": "5d09b7f6-a320-4ac1-8af0-622f191aa230",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "610596b4-9d99-4380-8b15-29c8fdef825a",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ]
+    ],
+    "description": null,
+    "name": "Grind",
+    "parameters": [
+        [
+            {
+                "id": "e7b5be2c-249f-42d3-8c4f-d1492f5e80bd",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            {
+                "default_units": "minute",
+                "lower_bound": 0,
+                "type": "real_bounds",
+                "upper_bound": 60
+            }
+        ],
+        [
+            {
+                "id": "3a1fd515-0c72-4a95-ae61-ae5e9423fe0d",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ]
+    ],
+    "tags": [],
+    "type": "process_template",
+    "uids": {
+        "auto": "37d80134-914b-43a4-8140-0471084159d2"
+    }
+}

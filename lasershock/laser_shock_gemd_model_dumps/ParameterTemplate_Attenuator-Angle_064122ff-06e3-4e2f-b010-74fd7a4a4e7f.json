@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "degree", "lower_bound": 0, "type": "real_bounds", "upper_bound": 360}, "description": "The angle of the laser attenuator", "name": "Attenuator Angle", "tags": [], "type": "parameter_template", "uids": {"auto": "064122ff-06e3-4e2f-b010-74fd7a4a4e7f"}}

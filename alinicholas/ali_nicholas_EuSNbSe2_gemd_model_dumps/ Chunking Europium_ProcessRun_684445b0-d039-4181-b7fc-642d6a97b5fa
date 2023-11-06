@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": " Chunking Europium",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "43d9e08e-c4a0-4951-adfc-06c7cc42fb4a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "684445b0-d039-4181-b7fc-642d6a97b5fa"
+   }
+}

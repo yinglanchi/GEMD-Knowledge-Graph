@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Grinding Purified Selinium",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "1603c6be-221e-4708-9b61-6bc15b456be8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "783cb8d5-e246-43e7-b79f-a34523adead5"
+   }
+}

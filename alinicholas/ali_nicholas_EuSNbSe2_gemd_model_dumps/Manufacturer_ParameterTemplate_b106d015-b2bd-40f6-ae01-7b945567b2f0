@@ -1,0 +1,17 @@
+{
+   "bounds": {
+      "categories": [
+         "Alfa Aesar",
+         "Thermo Scientific",
+         "Yeemeida Technology Co. LTD"
+      ],
+      "type": "categorical_bounds"
+   },
+   "description": "The name of the manufacturer from which a raw material was ordered",
+   "name": "Manufacturer",
+   "tags": [],
+   "type": "parameter_template",
+   "uids": {
+      "auto": "b106d015-b2bd-40f6-ae01-7b945567b2f0"
+   }
+}

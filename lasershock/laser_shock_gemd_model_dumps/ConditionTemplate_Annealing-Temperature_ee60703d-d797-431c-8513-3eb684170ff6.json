@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "degree_Celsius",
+        "lower_bound": 0,
+        "type": "real_bounds",
+        "upper_bound": 1000.0
+    },
+    "description": "Temperature at which a raw material is annealed to produce a Laser Shock Sample",
+    "name": "Annealing Temperature",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "ee60703d-d797-431c-8513-3eb684170ff6"
+    }
+}

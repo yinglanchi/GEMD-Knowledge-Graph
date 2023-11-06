@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "Chunked Europium",
+   "notes": null,
+   "process": {
+      "id": "43d9e08e-c4a0-4951-adfc-06c7cc42fb4a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Chunk",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "da1858ab-8d26-448c-b64f-687876cbc0dc",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "d3600a63-02ff-416f-a167-b4e9270770ab"
+   }
+}

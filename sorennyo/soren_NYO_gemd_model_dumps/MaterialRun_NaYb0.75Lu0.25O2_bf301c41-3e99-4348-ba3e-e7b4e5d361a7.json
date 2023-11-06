@@ -1,0 +1,21 @@
+{
+    "file_links": [],
+    "name": "NaYb0.75Lu0.25O2",
+    "notes": null,
+    "process": {
+        "id": "72a71e69-602f-4490-94c3-67f7c8bbdd98",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "sample_type": "unknown",
+    "spec": {
+        "id": "3c804f16-94f8-402a-96df-ec449a11e527",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "material_run",
+    "uids": {
+        "auto": "bf301c41-3e99-4348-ba3e-e7b4e5d361a7"
+    }
+}

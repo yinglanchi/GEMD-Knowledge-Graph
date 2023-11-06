@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "year",
+        "lower_bound": 0,
+        "type": "real_bounds",
+        "upper_bound": 1
+    },
+    "description": null,
+    "name": "Duration",
+    "tags": [],
+    "type": "parameter_template",
+    "uids": {
+        "auto": "e7b5be2c-249f-42d3-8c4f-d1492f5e80bd"
+    }
+}

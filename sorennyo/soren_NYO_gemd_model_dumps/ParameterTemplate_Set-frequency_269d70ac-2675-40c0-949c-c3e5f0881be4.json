@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "hertz", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1000000000000000.0}, "description": null, "name": "Set frequency", "tags": [], "type": "parameter_template", "uids": {"auto": "269d70ac-2675-40c0-949c-c3e5f0881be4"}}

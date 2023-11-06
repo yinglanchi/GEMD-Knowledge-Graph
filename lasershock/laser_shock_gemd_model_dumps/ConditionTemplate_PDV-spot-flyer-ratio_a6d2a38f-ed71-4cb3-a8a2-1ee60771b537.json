@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 10.0}, "description": "Ratio of the laser spot diameter to the flyer diameter", "name": "PDV spot flyer ratio", "tags": [], "type": "condition_template", "uids": {"auto": "a6d2a38f-ed71-4cb3-a8a2-1ee60771b537"}}

@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 10.0}, "description": "Ratio of the PDV spot diameter to the flyer diameter", "name": "Launch Ratio", "tags": [], "type": "condition_template", "uids": {"auto": "78819e87-dd9f-40ee-b164-4200792e2c0d"}}

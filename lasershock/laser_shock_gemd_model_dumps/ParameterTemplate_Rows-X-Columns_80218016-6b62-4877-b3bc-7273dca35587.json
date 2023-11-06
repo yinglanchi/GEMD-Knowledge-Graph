@@ -1,0 +1,1 @@
+{"bounds": {"lower_bound": 0, "type": "integer_bounds", "upper_bound": 20}, "description": "The number of rows and columns of flyer discs that is cut out of a glass/epoxy/foil stack", "name": "Rows X Columns", "tags": [], "type": "parameter_template", "uids": {"auto": "80218016-6b62-4877-b3bc-7273dca35587"}}

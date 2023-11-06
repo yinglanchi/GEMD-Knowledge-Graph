@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "Purified Sulfur",
+   "notes": null,
+   "process": {
+      "id": "b9237790-4823-4072-8b34-2e0bf1e24455",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Crystal",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "bbea2903-d403-41e3-803a-99120ac341d9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "732b48dd-d75e-447d-a0a3-374eb5fe733f"
+   }
+}

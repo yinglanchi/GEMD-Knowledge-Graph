@@ -1,0 +1,44 @@
+{
+    "conditions": [
+        {
+            "file_links": [],
+            "name": "Atmosphere",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "condition",
+            "value": {
+                "category": "air",
+                "type": "nominal_categorical"
+            }
+        }
+    ],
+    "file_links": [],
+    "name": "Grind",
+    "notes": null,
+    "parameters": [
+        {
+            "file_links": [],
+            "name": "Duration",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "nominal": 30.0,
+                "type": "nominal_real",
+                "units": "minute"
+            }
+        }
+    ],
+    "tags": [],
+    "template": {
+        "id": "37d80134-914b-43a4-8140-0471084159d2",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "type": "process_spec",
+    "uids": {
+        "auto": "4170c9a4-f9cf-4a8b-8d11-b301d4ce40d6"
+    }
+}

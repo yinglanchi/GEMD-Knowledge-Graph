@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "inch", "lower_bound": 0, "type": "real_bounds", "upper_bound": 2}, "description": "The thickness of a piece of glass", "name": "Glass Thickness", "tags": [], "type": "property_template", "uids": {"auto": "9469e68f-0e34-4ba6-857e-d1d6e8f34e75"}}

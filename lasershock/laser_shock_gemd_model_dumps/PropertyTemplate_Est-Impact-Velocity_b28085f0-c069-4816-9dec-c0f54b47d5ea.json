@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "meter / second", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 3000.0}, "description": "Estimated velocity of the flyer at impact", "name": "Est Impact Velocity", "tags": [], "type": "property_template", "uids": {"auto": "b28085f0-c069-4816-9dec-c0f54b47d5ea"}}

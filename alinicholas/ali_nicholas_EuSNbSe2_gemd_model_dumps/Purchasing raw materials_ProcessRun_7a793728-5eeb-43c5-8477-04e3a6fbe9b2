@@ -1,0 +1,22 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Purchasing raw materials",
+   "notes": null,
+   "parameters": [],
+   "source": {
+      "performed_by": "nng3@jhu.edu",
+      "performed_date": "01/01",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "4ac91361-5354-4dee-ab20-053a026ccb2e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "7a793728-5eeb-43c5-8477-04e3a6fbe9b2"
+   }
+}

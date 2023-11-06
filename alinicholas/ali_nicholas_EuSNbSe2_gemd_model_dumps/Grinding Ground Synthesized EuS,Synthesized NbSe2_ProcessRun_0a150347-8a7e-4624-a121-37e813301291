@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Grinding Ground Synthesized EuS,Synthesized NbSe2",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "b899190d-8e2e-4273-8bee-ec0788ef847c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "0a150347-8a7e-4624-a121-37e813301291"
+   }
+}

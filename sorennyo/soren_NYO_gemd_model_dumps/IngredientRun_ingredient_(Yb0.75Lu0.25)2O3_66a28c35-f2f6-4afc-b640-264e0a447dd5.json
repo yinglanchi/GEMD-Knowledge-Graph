@@ -1,0 +1,35 @@
+{
+    "absolute_quantity": {
+        "lower_bound": 5.98814,
+        "type": "uniform_real",
+        "units": "gram",
+        "upper_bound": 5.98824
+    },
+    "file_links": [],
+    "labels": [],
+    "mass_fraction": null,
+    "material": {
+        "id": "11a472ff-f157-4004-b94c-b29adab2289b",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "name": "ingredient_(Yb0.75Lu0.25)2O3",
+    "notes": null,
+    "number_fraction": null,
+    "process": {
+        "id": "41349506-1658-4fc8-98b8-eff23fdd855e",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "spec": {
+        "id": "218cff4f-2246-45de-97a5-331704104a1a",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "ingredient_run",
+    "uids": {
+        "auto": "66a28c35-f2f6-4afc-b640-264e0a447dd5"
+    },
+    "volume_fraction": null
+}

@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Full", "No visible", "Partial", "Through sample"], "type": "categorical_bounds"}, "description": "Type/amount of spall observed", "name": "Spall State", "tags": [], "type": "property_template", "uids": {"auto": "c54372e5-8879-4fee-8f0f-dbeda4055160"}}

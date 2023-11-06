@@ -1,0 +1,153 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Location",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Purification Tube Furnace",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Atmosphere",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "431e116c-dbcf-4927-9100-7e175cdf0342",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Air",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [],
+   "name": "Heating Selenium",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "ramp_up_1_time",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 3.75,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "ramp_up_1_rate",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "85546fe9-ce12-41fd-9c4f-b2d4a2b21986",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 100.0,
+            "type": "nominal_real",
+            "units": "degree_Celsius"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "dwell_1_time",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 12.0,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "dwell_1_temperature",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "c837c92a-cbd0-4e6f-b976-9ffe1682ffdb",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 400.0,
+            "type": "nominal_real",
+            "units": "degree_Celsius"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "ramp_down_1_time",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 3.75,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "ramp_down_1_rate",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "85546fe9-ce12-41fd-9c4f-b2d4a2b21986",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 100.0,
+            "type": "nominal_real",
+            "units": "degree_Celsius"
+         }
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "6637282e-c51a-466c-8502-cef0c5a56825",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "08ca83ca-a4f1-4125-afa2-3cab34b8e0f9"
+   }
+}

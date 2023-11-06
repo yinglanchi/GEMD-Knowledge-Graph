@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "millimeter", "lower_bound": 25.0, "type": "real_bounds", "upper_bound": 60.0}, "description": "The diameter of the laser beam as inputted into the beam shaper", "name": "Beam Shaper Input Beam Diameter", "tags": [], "type": "condition_template", "uids": {"auto": "f491d129-c4dd-48f0-baf1-2b2dfb241759"}}

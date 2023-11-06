@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Cavitar", "SiLux"], "type": "categorical_bounds"}, "description": "The laser used to illuminate the high speed camera field of view", "name": "Illumination Laser", "tags": [], "type": "condition_template", "uids": {"auto": "c72f0a56-9abe-4161-a36d-eb05091f0994"}}

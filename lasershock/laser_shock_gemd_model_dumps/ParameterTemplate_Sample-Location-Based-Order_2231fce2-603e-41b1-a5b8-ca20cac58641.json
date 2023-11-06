@@ -1,0 +1,1 @@
+{"bounds": {"lower_bound": 0, "type": "integer_bounds", "upper_bound": 100}, "description": "The location-based order ID of an impact sample", "name": "Sample Location Based Order", "tags": [], "type": "parameter_template", "uids": {"auto": "2231fce2-603e-41b1-a5b8-ca20cac58641"}}

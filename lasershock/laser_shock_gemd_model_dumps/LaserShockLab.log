@@ -1,0 +1,2 @@
+[LaserShockLab at 2023-04-10 15:36:10] WARNING: Deserialization of previously-created objects will be skipped because /Users/margareteminizer/Desktop/dmref_materials_project/openmsi/gemd_data_model_dumps/complete_data_model.json does not exist
+[LaserShockLab at 2023-04-10 15:43:49] WARNING: 6 LaserShockExperiment objects found with Launch ID =  but Launch ID should be unique!

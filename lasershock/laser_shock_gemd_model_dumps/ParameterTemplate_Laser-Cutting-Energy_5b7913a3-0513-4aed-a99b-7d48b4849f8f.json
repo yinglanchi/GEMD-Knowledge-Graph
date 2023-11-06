@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "microjoule", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 500.0}, "description": "Energy of the laser used to cut out flyers", "name": "Laser Cutting Energy", "tags": [], "type": "parameter_template", "uids": {"auto": "5b7913a3-0513-4aed-a99b-7d48b4849f8f"}}

@@ -1,0 +1,58 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Atmosphere",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "431e116c-dbcf-4927-9100-7e175cdf0342",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Inner Atmosphere Glovebox",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [],
+   "name": "Grinding Synthesized EuS",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "Equipment Used",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "0471f9aa-d24d-4598-ac94-02c6dd1c8d1d",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "Mortar and Pestle",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "source": {
+      "performed_by": "nng3@jhu.edu",
+      "performed_date": "01/23",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "3ad6f87d-862f-47e3-87dd-4d9e2a52eeb1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "0afb2915-d60c-4087-a7d6-5d023f4379b7"
+   }
+}

@@ -1,0 +1,63 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Location",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "X-Ray Diffraction Panel",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [
+      {
+         "filename": "XRD Panel",
+         "type": "file_link",
+         "url": "photos/equipment/xrd_panel.jpg"
+      },
+      {
+         "filename": "post-XRD on Tube 1",
+         "type": "file_link",
+         "url": "xrd/ML_Spider_post_20230113_1_NN_EuSSynthesis_Tube1_5-60_4min.raw"
+      },
+      {
+         "filename": "post-XRD on Tube 2",
+         "type": "file_link",
+         "url": "xrd/ML_Spider_post_20230113_1_NN_EuSSynthesis_Tube2_5-60_4min.raw"
+      }
+   ],
+   "material": {
+      "id": "6bfe80f4-53dc-41a5-9c97-8d1b2860092a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "XRD characterization on final pellets",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": {
+      "performed_by": "nng3@jhu.edu",
+      "performed_date": "01/13",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "07d2905e-c4b8-42e9-aa5b-4306a7592c4f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "79fcc7d7-5fe8-4e52-81f7-17bf45c25c53"
+   }
+}

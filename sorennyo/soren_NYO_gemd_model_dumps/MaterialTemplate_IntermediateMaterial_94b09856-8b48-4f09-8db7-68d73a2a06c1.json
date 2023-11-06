@@ -1,0 +1,27 @@
+{
+    "description": null,
+    "name": "IntermediateMaterial",
+    "properties": [
+        [
+            {
+                "id": "b36df400-7b7a-4914-a88f-fff50ec3c2d1",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "95f90db8-c4a1-4840-b3e6-c4d0bc220f73",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ]
+    ],
+    "tags": [],
+    "type": "material_template",
+    "uids": {
+        "auto": "94b09856-8b48-4f09-8db7-68d73a2a06c1"
+    }
+}

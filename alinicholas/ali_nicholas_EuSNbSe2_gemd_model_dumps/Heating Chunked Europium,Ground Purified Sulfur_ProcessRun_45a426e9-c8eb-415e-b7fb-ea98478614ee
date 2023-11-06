@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Heating Chunked Europium,Ground Purified Sulfur",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "3fdb9ec8-586e-471d-bd53-7c603d58dd5a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "45a426e9-c8eb-415e-b7fb-ea98478614ee"
+   }
+}

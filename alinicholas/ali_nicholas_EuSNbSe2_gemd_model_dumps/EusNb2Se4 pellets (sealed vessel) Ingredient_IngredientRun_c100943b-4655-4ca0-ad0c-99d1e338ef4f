@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "b4cd658e-1314-4e17-bd8d-085b50a1fc3a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "EusNb2Se4 pellets (sealed vessel) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "4dbd86fa-bd51-4f15-9502-6e2356bf371e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "4b64c5aa-9cdb-4fdc-8b71-065c0c72ab6f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "c100943b-4655-4ca0-ad0c-99d1e338ef4f"
+   },
+   "volume_fraction": null
+}

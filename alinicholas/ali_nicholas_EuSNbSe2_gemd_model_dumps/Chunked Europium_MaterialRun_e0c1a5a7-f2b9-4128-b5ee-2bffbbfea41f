@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "Chunked Europium",
+   "notes": null,
+   "process": {
+      "id": "f00b7da6-9e64-4c73-a609-bb357be3e26e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "d3600a63-02ff-416f-a167-b4e9270770ab",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "e0c1a5a7-f2b9-4128-b5ee-2bffbbfea41f"
+   }
+}

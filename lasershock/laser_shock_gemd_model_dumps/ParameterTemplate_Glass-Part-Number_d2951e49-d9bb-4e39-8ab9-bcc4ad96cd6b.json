@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["B8476012", "B84760126", "B84760127", "B84760128"], "type": "categorical_bounds"}, "description": "The manufacturer's part number for a piece of glass that was purchased", "name": "Glass Part Number", "tags": [], "type": "parameter_template", "uids": {"auto": "d2951e49-d9bb-4e39-8ab9-bcc4ad96cd6b"}}

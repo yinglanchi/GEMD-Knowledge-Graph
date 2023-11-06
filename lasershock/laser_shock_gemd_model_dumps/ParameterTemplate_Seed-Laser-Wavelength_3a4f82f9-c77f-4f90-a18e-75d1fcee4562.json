@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "nanometer", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 3000.0}, "description": "Wavelength of the seed laser", "name": "Seed Laser Wavelength", "tags": [], "type": "parameter_template", "uids": {"auto": "3a4f82f9-c77f-4f90-a18e-75d1fcee4562"}}

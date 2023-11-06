@@ -1,0 +1,19 @@
+{
+   "description": "A material produced from a Partlow heating process, whether for purification, synthesis or else",
+   "name": "Heated Material",
+   "properties": [
+      [
+         {
+            "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "material_template",
+   "uids": {
+      "auto": "bbea2903-d403-41e3-803a-99120ac341d9"
+   }
+}

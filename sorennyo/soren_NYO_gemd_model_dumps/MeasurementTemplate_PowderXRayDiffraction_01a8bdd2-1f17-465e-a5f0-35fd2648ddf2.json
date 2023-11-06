@@ -1,0 +1,199 @@
+{
+    "conditions": [
+        [
+            {
+                "id": "285271f6-50cb-4943-8920-bb1879c0c3fa",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "7fe2658d-4f00-4321-bd54-18e609d42f99",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "8aee95fe-9157-4e29-97ec-c0da500a5366",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "628f80d2-f153-4a33-b830-aa779cd9364d",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ]
+    ],
+    "description": null,
+    "name": "PowderXRayDiffraction",
+    "parameters": [
+        [
+            {
+                "id": "87da5c77-54ff-446d-8660-b1c6a428542b",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "3d1b8f3d-9798-49c9-ae75-35c68cc5673d",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "583e24d1-4ee5-453a-ad75-24d4b25268b3",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "d23d1154-9cba-4362-aeeb-562233ad9a66",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "c2a85f65-871f-4ccf-a516-14c85d25c08e",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "44428487-ced6-4379-9fef-0e26d8abc0a0",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "500b615a-9c79-4e37-8fa7-7759057a79a3",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "910f75c8-84a2-46a3-a4f6-0a67e7f1a4cf",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "4ebdaa86-1a0c-4cab-863e-b50b0dbe437b",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "820babd0-bca8-417e-b945-fff04283bfb8",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "476e5b09-a617-4266-a361-7e38a9ddf173",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "f318c4b8-2576-4ace-af02-0c02acdd8112",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ]
+    ],
+    "properties": [
+        [
+            {
+                "id": "4adef6bd-4ec2-445b-af9e-69dfcb0154f1",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "1a640248-04ad-4697-9730-47fa3fce59b5",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "90ffda56-b5fb-49df-b68d-99a7725b1b2b",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "ca26e514-0801-4aee-89c7-00d10449ec29",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "29a0bf61-ba2d-46de-b1d2-e4b3b47abee1",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "76846645-0f49-4924-8ae4-007d14f16cdd",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "f9db47f8-58e4-4cc1-b329-04afda00bd03",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ]
+    ],
+    "tags": [],
+    "type": "measurement_template",
+    "uids": {
+        "auto": "01a8bdd2-1f17-465e-a5f0-35fd2648ddf2"
+    }
+}

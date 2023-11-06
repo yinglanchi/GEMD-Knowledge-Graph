@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "EusNb2Se4 pellets",
+   "notes": null,
+   "process": {
+      "id": "c102fe2d-446a-41d3-9fce-c691269fd381",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "792465c3-270f-4644-84ef-a7dfc40f7795",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "0af60f52-f1e3-4e4e-96e2-829830aac07a"
+   }
+}

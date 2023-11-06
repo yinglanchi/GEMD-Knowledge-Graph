@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "degree",
+        "lower_bound": 0,
+        "type": "real_bounds",
+        "upper_bound": 180
+    },
+    "description": null,
+    "name": "beta",
+    "tags": [],
+    "type": "parameter_template",
+    "uids": {
+        "auto": "c2a85f65-871f-4ccf-a516-14c85d25c08e"
+    }
+}

@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1}, "description": null, "name": "Occupancy", "tags": [], "type": "parameter_template", "uids": {"auto": "476e5b09-a617-4266-a361-7e38a9ddf173"}}

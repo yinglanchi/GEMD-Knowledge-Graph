@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "pascal",
+        "lower_bound": 0,
+        "type": "real_bounds",
+        "upper_bound": 1000000000000000.0
+    },
+    "description": null,
+    "name": "Measured pressure",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "57a776d8-30d6-4214-bcb5-10ab7f2f96d5"
+    }
+}

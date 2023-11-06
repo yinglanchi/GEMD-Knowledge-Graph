@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "1f7313f0-2010-4f1a-ac39-de03af8e2c24",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Niobium Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "bc4021eb-3039-4420-8546-1ddd9d2963e6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "08884a4a-8e00-4861-8ca4-f8f001c6a5ea",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "4433d824-107a-4d8b-aeb7-6e6ff37f8fbd"
+   },
+   "volume_fraction": null
+}

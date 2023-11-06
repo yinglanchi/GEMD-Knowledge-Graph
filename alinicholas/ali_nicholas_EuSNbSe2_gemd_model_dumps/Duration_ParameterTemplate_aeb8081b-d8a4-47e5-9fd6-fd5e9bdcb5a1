@@ -1,0 +1,15 @@
+{
+   "bounds": {
+      "default_units": "hour",
+      "lower_bound": 0,
+      "type": "real_bounds",
+      "upper_bound": 96
+   },
+   "description": "Duration of any process, measurement, etc. In our case, it is often used for durations of dwell and ramp up/down times in heating phases, but can also be used to specify measurement/process duration",
+   "name": "Duration",
+   "tags": [],
+   "type": "parameter_template",
+   "uids": {
+      "auto": "aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1"
+   }
+}

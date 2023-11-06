@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "minute", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 300.0}, "description": "How long it usually takes to cut out some flyers", "name": "Typical Cutting Time", "tags": [], "type": "condition_template", "uids": {"auto": "3eb4fb37-07c0-4a43-b680-3ea79486a408"}}

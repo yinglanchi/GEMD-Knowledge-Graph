@@ -1,0 +1,15 @@
+{
+   "bounds": {
+      "default_units": "degree_Celsius",
+      "lower_bound": 0,
+      "type": "real_bounds",
+      "upper_bound": 1100
+   },
+   "description": "The temperature of a heating phase in a furnace. Can be dynamic with a schedule or fixed like a pre-heating temperature",
+   "name": "Furnace Temperature",
+   "tags": [],
+   "type": "parameter_template",
+   "uids": {
+      "auto": "c837c92a-cbd0-4e6f-b976-9ffe1682ffdb"
+   }
+}

@@ -1,0 +1,173 @@
+{
+    "conditions": [
+        {
+            "file_links": [],
+            "name": "Atmosphere",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "condition",
+            "value": {
+                "category": "air",
+                "type": "nominal_categorical"
+            }
+        },
+        {
+            "file_links": [],
+            "name": "Atmospheric pressure",
+            "notes": null,
+            "origin": "predicted",
+            "template": null,
+            "type": "condition",
+            "value": {
+                "lower_bound": 100000.0,
+                "type": "uniform_real",
+                "units": "pascal",
+                "upper_bound": 150000.0
+            }
+        }
+    ],
+    "file_links": [],
+    "name": "Anneal Yb and Lu",
+    "notes": null,
+    "parameters": [
+        {
+            "file_links": [],
+            "name": "Container",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "category": "alumina",
+                "type": "nominal_categorical"
+            }
+        },
+        {
+            "file_links": [],
+            "name": "Duration_seg0",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "nominal": 1.5,
+                "type": "nominal_real",
+                "units": "hour"
+            }
+        },
+        {
+            "file_links": [],
+            "name": "Set temperature_seg0",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "nominal": 900.0,
+                "type": "nominal_real",
+                "units": "degree_Celsius"
+            }
+        },
+        {
+            "file_links": [],
+            "name": "Segment type_seg0",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "category": "ramp",
+                "type": "nominal_categorical"
+            }
+        },
+        {
+            "file_links": [],
+            "name": "Duration_seg1",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "nominal": 48.0,
+                "type": "nominal_real",
+                "units": "hour"
+            }
+        },
+        {
+            "file_links": [],
+            "name": "Set temperature_seg1",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "nominal": 900.0,
+                "type": "nominal_real",
+                "units": "degree_Celsius"
+            }
+        },
+        {
+            "file_links": [],
+            "name": "Segment type_seg1",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "category": "hold",
+                "type": "nominal_categorical"
+            }
+        },
+        {
+            "file_links": [],
+            "name": "Duration_seg2",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "nominal": 3.0,
+                "type": "nominal_real",
+                "units": "hour"
+            }
+        },
+        {
+            "file_links": [],
+            "name": "Set temperature_seg2",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "nominal": 600.0,
+                "type": "nominal_real",
+                "units": "degree_Celsius"
+            }
+        },
+        {
+            "file_links": [],
+            "name": "Segment type_seg2",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "category": "ramp",
+                "type": "nominal_categorical"
+            }
+        }
+    ],
+    "tags": [
+        "Thermcraft::XSB::Ra"
+    ],
+    "template": {
+        "id": "c664f9c3-ef70-4a35-8cc0-e8e735d165b0",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "type": "process_spec",
+    "uids": {
+        "auto": "9e0dc97a-9500-4069-84cd-c4378b475279"
+    }
+}

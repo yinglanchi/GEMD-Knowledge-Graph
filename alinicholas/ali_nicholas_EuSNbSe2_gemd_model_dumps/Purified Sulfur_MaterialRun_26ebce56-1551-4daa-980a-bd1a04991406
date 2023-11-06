@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Purified Sulfur",
+   "notes": null,
+   "process": {
+      "id": "d1f703bb-13cb-4eae-8575-f7bbe784d88f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "732b48dd-d75e-447d-a0a3-374eb5fe733f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "26ebce56-1551-4daa-980a-bd1a04991406"
+   }
+}

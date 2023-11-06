@@ -1,0 +1,13 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [],
+   "description": "Chunking mass of a material to match some mass, volume or other characteristic",
+   "name": "Chunking Material",
+   "parameters": [],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "5056e434-37c0-408e-97d3-9c658a851f32"
+   }
+}

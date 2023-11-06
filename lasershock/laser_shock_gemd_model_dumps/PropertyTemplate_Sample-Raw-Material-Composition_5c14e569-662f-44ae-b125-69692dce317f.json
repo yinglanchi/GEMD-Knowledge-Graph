@@ -1,0 +1,1 @@
+{"bounds": {"components": ["Al", "Be", "Ca", "Cu", "Mg", "Ni", "Ti", "Zn", "Zr"], "type": "composition_bounds"}, "description": "The composition of a raw material that's processed to produce a Laser Shock Sample", "name": "Sample Raw Material Composition", "tags": [], "type": "property_template", "uids": {"auto": "5c14e569-662f-44ae-b125-69692dce317f"}}

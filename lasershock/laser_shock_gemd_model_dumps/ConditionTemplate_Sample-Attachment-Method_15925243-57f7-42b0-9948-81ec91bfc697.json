@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Alignment Stage", "Manual"], "type": "categorical_bounds"}, "description": "Method used to attach a sample to a flyer/spacer in a Launch Package", "name": "Sample Attachment Method", "tags": [], "type": "condition_template", "uids": {"auto": "15925243-57f7-42b0-9948-81ec91bfc697"}}

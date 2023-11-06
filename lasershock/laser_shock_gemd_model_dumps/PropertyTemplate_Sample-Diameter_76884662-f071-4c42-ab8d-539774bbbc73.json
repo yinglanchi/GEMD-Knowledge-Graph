@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "millimeter", "lower_bound": 0, "type": "real_bounds", "upper_bound": 10}, "description": "The diameter of an impact sample in a Launch Package", "name": "Sample Diameter", "tags": [], "type": "property_template", "uids": {"auto": "76884662-f071-4c42-ab8d-539774bbbc73"}}

@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Diamond Wire Saw", "EDM", "TEM Punch"], "type": "categorical_bounds"}, "description": "How an impact sample was cut from its larger piece of material", "name": "Impact Sample Cutting Procedure", "tags": [], "type": "condition_template", "uids": {"auto": "0972b5fd-54af-47a3-8625-7d5a8d1b9fd1"}}

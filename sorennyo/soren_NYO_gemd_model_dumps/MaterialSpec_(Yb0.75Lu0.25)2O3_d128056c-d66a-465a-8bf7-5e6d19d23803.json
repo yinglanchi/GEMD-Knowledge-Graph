@@ -1,0 +1,54 @@
+{
+    "file_links": [],
+    "name": "(Yb0.75Lu0.25)2O3",
+    "notes": null,
+    "process": {
+        "id": "9e0dc97a-9500-4069-84cd-c4378b475279",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "properties": [
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Chemical composition",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "formula": "(Yb0.75Lu0.25)2O3",
+                    "type": "empirical_formula"
+                }
+            },
+            "type": "property_and_conditions"
+        },
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Material form",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "category": "powder",
+                    "type": "nominal_categorical"
+                }
+            },
+            "type": "property_and_conditions"
+        }
+    ],
+    "tags": [],
+    "template": {
+        "id": "94b09856-8b48-4f09-8db7-68d73a2a06c1",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "type": "material_spec",
+    "uids": {
+        "auto": "d128056c-d66a-465a-8bf7-5e6d19d23803"
+    }
+}

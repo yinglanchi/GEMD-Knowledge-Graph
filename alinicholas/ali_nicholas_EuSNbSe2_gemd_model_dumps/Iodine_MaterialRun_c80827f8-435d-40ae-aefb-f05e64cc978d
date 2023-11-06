@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Iodine",
+   "notes": null,
+   "process": {
+      "id": "c42f7ad6-21f4-41d4-ba49-fa6c8f7c6e85",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "a1fccd98-7694-496d-aea0-6115d4a6cf50",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "c80827f8-435d-40ae-aefb-f05e64cc978d"
+   }
+}

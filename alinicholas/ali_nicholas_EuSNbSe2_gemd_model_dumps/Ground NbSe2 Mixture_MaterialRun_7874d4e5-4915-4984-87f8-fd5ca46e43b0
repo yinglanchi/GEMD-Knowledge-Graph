@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "Ground NbSe2 Mixture",
+   "notes": null,
+   "process": {
+      "id": "e5f6a318-d616-4b44-b7b6-9547b73d2b25",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "9dbaf8ca-0411-4b83-93eb-3c3b1fc34761",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "7874d4e5-4915-4984-87f8-fd5ca46e43b0"
+   }
+}

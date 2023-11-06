@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "2dc34d88-797c-4125-8dba-a33070ad9360",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Chunked Europium Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "45a426e9-c8eb-415e-b7fb-ea98478614ee",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "3e90dbf4-7ec9-42b6-b558-31d44a0c90ee",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "962953ba-efe3-4b38-a626-77b2ee8f75df"
+   },
+   "volume_fraction": null
+}

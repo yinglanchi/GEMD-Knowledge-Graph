@@ -1,0 +1,54 @@
+{
+    "file_links": [],
+    "name": "baked_Na2CO3",
+    "notes": null,
+    "process": {
+        "id": "8c18c227-968f-4a27-9986-0df952638212",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "properties": [
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Chemical composition",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "formula": "Na2CO3",
+                    "type": "empirical_formula"
+                }
+            },
+            "type": "property_and_conditions"
+        },
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Material form",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "category": "powder",
+                    "type": "nominal_categorical"
+                }
+            },
+            "type": "property_and_conditions"
+        }
+    ],
+    "tags": [],
+    "template": {
+        "id": "94b09856-8b48-4f09-8db7-68d73a2a06c1",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "type": "material_spec",
+    "uids": {
+        "auto": "133a4fac-c0d7-4f20-87ec-95c79bda55bd"
+    }
+}

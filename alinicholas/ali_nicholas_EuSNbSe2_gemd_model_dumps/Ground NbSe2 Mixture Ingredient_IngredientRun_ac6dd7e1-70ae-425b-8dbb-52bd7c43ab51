@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "7874d4e5-4915-4984-87f8-fd5ca46e43b0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Ground NbSe2 Mixture Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "d6db3ca3-c4ec-4fe0-811a-9726a075f6ab",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "8e9d9c87-e8d4-4926-94ea-37a7944278be",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "ac6dd7e1-70ae-425b-8dbb-52bd7c43ab51"
+   },
+   "volume_fraction": null
+}

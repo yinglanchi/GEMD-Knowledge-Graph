@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "Ground EuS, Nb and Se mix",
+   "notes": null,
+   "process": {
+      "id": "bc4021eb-3039-4420-8546-1ddd9d2963e6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "7239a019-78c9-4340-aaa1-7387933c7c18",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "eb249688-45ec-46f7-a811-c69dee3f28d4"
+   }
+}

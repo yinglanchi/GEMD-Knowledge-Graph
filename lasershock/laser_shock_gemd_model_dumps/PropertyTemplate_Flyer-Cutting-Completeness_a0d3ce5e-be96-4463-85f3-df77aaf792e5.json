@@ -1,0 +1,1 @@
+{"bounds": {"lower_bound": 0, "type": "integer_bounds", "upper_bound": 100}, "description": "What percentage of the grid of flyers were cut without issue?", "name": "Flyer Cutting Completeness", "tags": [], "type": "property_template", "uids": {"auto": "a0d3ce5e-be96-4463-85f3-df77aaf792e5"}}

@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["11", "16", "2.8", "22", "32", "4", "5.6", "8"], "type": "categorical_bounds"}, "description": "The aperture setting on the high speed camera lens", "name": "Lens Aperture", "tags": [], "type": "condition_template", "uids": {"auto": "be2f187b-3602-4834-b36a-4e4c6efa1a62"}}

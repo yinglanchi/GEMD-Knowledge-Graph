@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "Synthesized NbSe2",
+   "notes": null,
+   "process": {
+      "id": "e095c54b-90fd-4e26-9b80-cbf38a2adcc0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Chunk and Powder",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "bbea2903-d403-41e3-803a-99120ac341d9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "94a5f1f0-18c7-42d3-b02b-974d58bab490"
+   }
+}

@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Atomic Percent", "Weight Percent"], "type": "categorical_bounds"}, "description": "Possible values of the \"Percentage Measure\" radial button in the \"Sample\" layout", "name": "Composition Measure", "tags": [], "type": "condition_template", "uids": {"auto": "a139e704-5455-4ab5-8a3b-4196d7dec65b"}}

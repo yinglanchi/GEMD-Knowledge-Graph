@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": " Quenched EusNb2Se4 pellets (heated in sealed vessel)",
+   "notes": null,
+   "process": {
+      "id": "890e03d8-532c-40d6-bf78-f540fa9adbac",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "14642d52-b6a9-410c-a277-fc2b926aee02",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "6f4ad594-21ad-4f21-8fd8-61bd1ae91e7d"
+   }
+}

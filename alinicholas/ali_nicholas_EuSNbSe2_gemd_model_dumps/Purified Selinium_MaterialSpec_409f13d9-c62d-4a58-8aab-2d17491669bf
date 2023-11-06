@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "Purified Selinium",
+   "notes": null,
+   "process": {
+      "id": "08ca83ca-a4f1-4125-afa2-3cab34b8e0f9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Crystal",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "bbea2903-d403-41e3-803a-99120ac341d9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "409f13d9-c62d-4a58-8aab-2d17491669bf"
+   }
+}

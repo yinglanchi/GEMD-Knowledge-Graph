@@ -1,0 +1,54 @@
+{
+    "file_links": [],
+    "name": "Mixture of Na2CO3 and (Yb0.75Lu0.25)2O3",
+    "notes": null,
+    "process": {
+        "id": "4170c9a4-f9cf-4a8b-8d11-b301d4ce40d6",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "properties": [
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Chemical composition",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "formula": "((Yb0.75Lu0.25)2O3) 1.25(Na2CO3)",
+                    "type": "empirical_formula"
+                }
+            },
+            "type": "property_and_conditions"
+        },
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Material form",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "category": "powder",
+                    "type": "nominal_categorical"
+                }
+            },
+            "type": "property_and_conditions"
+        }
+    ],
+    "tags": [],
+    "template": {
+        "id": "94b09856-8b48-4f09-8db7-68d73a2a06c1",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "type": "material_spec",
+    "uids": {
+        "auto": "9cb0f23f-966e-4cad-b1a6-cba1f39c6c55"
+    }
+}

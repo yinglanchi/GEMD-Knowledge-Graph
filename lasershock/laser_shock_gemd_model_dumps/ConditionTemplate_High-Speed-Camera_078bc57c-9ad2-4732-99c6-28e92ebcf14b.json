@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Kirana", "Not Used", "Shimadzu"], "type": "categorical_bounds"}, "description": "The high speed camera used", "name": "High Speed Camera", "tags": [], "type": "condition_template", "uids": {"auto": "078bc57c-9ad2-4732-99c6-28e92ebcf14b"}}

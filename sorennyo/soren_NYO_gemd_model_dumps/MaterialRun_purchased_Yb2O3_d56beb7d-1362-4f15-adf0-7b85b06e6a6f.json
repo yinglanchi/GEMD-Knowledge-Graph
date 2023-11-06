@@ -1,0 +1,21 @@
+{
+    "file_links": [],
+    "name": "purchased_Yb2O3",
+    "notes": null,
+    "process": {
+        "id": "b9064169-22ce-4521-a0d8-44db203df6f1",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "sample_type": "unknown",
+    "spec": {
+        "id": "da9079d4-a532-4a71-abfd-9c46a38bc0ea",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "material_run",
+    "uids": {
+        "auto": "d56beb7d-1362-4f15-adf0-7b85b06e6a6f"
+    }
+}

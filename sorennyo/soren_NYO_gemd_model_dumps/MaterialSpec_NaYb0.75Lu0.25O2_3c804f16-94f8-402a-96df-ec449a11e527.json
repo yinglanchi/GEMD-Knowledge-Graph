@@ -1,0 +1,54 @@
+{
+    "file_links": [],
+    "name": "NaYb0.75Lu0.25O2",
+    "notes": null,
+    "process": {
+        "id": "fbe671fb-5bc9-4fc5-899b-480e48b1f207",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "properties": [
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Chemical composition",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "formula": "NaYb0.75Lu0.25O2",
+                    "type": "empirical_formula"
+                }
+            },
+            "type": "property_and_conditions"
+        },
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Crystalline form",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "category": "polycrystalline",
+                    "type": "nominal_categorical"
+                }
+            },
+            "type": "property_and_conditions"
+        }
+    ],
+    "tags": [],
+    "template": {
+        "id": "0c6a24ff-af33-4ebb-9b84-b7940b321fce",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "type": "material_spec",
+    "uids": {
+        "auto": "3c804f16-94f8-402a-96df-ec449a11e527"
+    }
+}

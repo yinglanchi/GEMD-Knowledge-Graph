@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "micrometer", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "The diameter of the PDV laser spot", "name": "PDV Spot Size", "tags": [], "type": "condition_template", "uids": {"auto": "50a701cd-5075-42d4-95bc-b5a0bebdeae7"}}

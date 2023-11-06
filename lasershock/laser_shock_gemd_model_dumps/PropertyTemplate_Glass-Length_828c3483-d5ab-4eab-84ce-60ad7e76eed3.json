@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "inch", "lower_bound": 0, "type": "real_bounds", "upper_bound": 12}, "description": "The length of a piece of glass", "name": "Glass Length", "tags": [], "type": "property_template", "uids": {"auto": "828c3483-d5ab-4eab-84ce-60ad7e76eed3"}}

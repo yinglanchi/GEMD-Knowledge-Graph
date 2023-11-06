@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "inch", "lower_bound": 0, "type": "real_bounds", "upper_bound": 12}, "description": "The width of a piece of glass", "name": "Glass Width", "tags": [], "type": "property_template", "uids": {"auto": "d6f89685-f17c-4947-8077-c0cb1f99436a"}}

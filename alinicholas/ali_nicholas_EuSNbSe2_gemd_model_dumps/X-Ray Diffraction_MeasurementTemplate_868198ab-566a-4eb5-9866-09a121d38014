@@ -1,0 +1,21 @@
+{
+   "conditions": [
+      [
+         {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "description": "Applying x-ray diffraction to discover structure and properties of a material ",
+   "name": "X-Ray Diffraction",
+   "parameters": [],
+   "properties": [],
+   "tags": [],
+   "type": "measurement_template",
+   "uids": {
+      "auto": "868198ab-566a-4eb5-9866-09a121d38014"
+   }
+}

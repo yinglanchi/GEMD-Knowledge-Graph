@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "EusNb2Se4 pellets",
+   "notes": null,
+   "process": {
+      "id": "065f2f3a-7b2b-4eb5-aa29-3f9cdd5bb631",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Pellet",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "8dffcf89-bd19-4e98-8f9b-331763af83a4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "4c61d449-f67d-40f1-899a-ea6a859704c3"
+   }
+}

@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "9cd5e80f-f9e4-4326-95ad-b05c2f5687c9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Sulfur Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "995a8c49-888b-465a-8db5-9574b6fbc65c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "0db4a2d7-ee84-40de-891f-c18f8712e650",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "ce35b2eb-daab-4c8e-9f69-a8cb5b363bec"
+   },
+   "volume_fraction": null
+}

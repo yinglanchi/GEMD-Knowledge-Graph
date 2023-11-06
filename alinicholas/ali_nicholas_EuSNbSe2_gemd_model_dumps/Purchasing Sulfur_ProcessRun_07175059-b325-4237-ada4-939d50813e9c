@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Purchasing Sulfur",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "bd5c60f1-51b9-4386-ac8d-a3d68a782864",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "07175059-b325-4237-ada4-939d50813e9c"
+   }
+}

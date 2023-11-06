@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "EusNb2Se4 pellets (sealed vessel)",
+   "notes": null,
+   "process": {
+      "id": "44e5f093-a246-4ce9-b49d-1b02245222ac",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "375fc66a-9b79-4f70-911a-dac0b39ed202",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "c8126f55-43e3-454b-81b6-ab766077aacd"
+   }
+}

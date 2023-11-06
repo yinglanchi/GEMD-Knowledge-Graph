@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "717cf09d-44a8-4dc7-a6b9-b31f2bd488b8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Ground Purified Selinium Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "bc4021eb-3039-4420-8546-1ddd9d2963e6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "cb813f67-1503-4e2a-a761-5cb0967ba1f2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "837e7922-f865-430b-b0d0-90773ccf7f56"
+   },
+   "volume_fraction": null
+}

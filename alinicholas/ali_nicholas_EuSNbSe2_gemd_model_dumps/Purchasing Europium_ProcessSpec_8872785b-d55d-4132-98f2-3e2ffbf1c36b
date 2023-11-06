@@ -1,0 +1,34 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Purchasing Europium",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "Manufacturer",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "b106d015-b2bd-40f6-ae01-7b945567b2f0",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "Yeemeida Technology Co. LTD",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "30c48a8b-9fc0-4655-a11a-b1f7dabfdcf4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "8872785b-d55d-4132-98f2-3e2ffbf1c36b"
+   }
+}

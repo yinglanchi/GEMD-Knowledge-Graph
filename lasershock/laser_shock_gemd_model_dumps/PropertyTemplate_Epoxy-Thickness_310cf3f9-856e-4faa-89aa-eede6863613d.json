@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "micrometer", "lower_bound": -100, "type": "real_bounds", "upper_bound": 100}, "description": "The thickness of a layer of epoxy", "name": "Epoxy Thickness", "tags": [], "type": "property_template", "uids": {"auto": "310cf3f9-856e-4faa-89aa-eede6863613d"}}

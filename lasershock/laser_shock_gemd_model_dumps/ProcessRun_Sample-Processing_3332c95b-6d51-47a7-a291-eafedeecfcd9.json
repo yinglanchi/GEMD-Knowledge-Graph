@@ -1,0 +1,1 @@
+{"conditions": [], "file_links": [], "name": "Sample Processing", "notes": null, "parameters": [], "source": {"performed_by": null, "performed_date": null, "type": "performed_source"}, "spec": {"id": "2af6051f-facd-46c7-8e77-e14680c64895", "scope": "auto", "type": "link_by_uid"}, "tags": [], "type": "process_run", "uids": {"auto": "3332c95b-6d51-47a7-a291-eafedeecfcd9"}}

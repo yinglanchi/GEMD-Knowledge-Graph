@@ -1,0 +1,21 @@
+{
+    "file_links": [],
+    "name": "baked_Na2CO3",
+    "notes": null,
+    "process": {
+        "id": "8935fdc2-2dd9-41b7-8bb3-dcf16ad4daa2",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "sample_type": "unknown",
+    "spec": {
+        "id": "133a4fac-c0d7-4f20-87ec-95c79bda55bd",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "material_run",
+    "uids": {
+        "auto": "56cfcf29-1953-49bb-8847-8cf28236a2d2"
+    }
+}

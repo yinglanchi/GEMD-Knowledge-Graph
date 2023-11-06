@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Ground Purified Sulfur",
+   "notes": null,
+   "process": {
+      "id": "82965b6f-43e2-481a-99f2-48d82cd042cd",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "b60464fe-f0e2-4ec9-9440-2cddb3f92dbd",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "edf40f5b-476a-44f3-876e-3739680ee09c"
+   }
+}

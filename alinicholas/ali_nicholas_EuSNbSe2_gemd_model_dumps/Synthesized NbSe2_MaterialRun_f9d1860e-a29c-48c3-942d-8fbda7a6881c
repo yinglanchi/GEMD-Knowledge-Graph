@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "Synthesized NbSe2",
+   "notes": null,
+   "process": {
+      "id": "d6db3ca3-c4ec-4fe0-811a-9726a075f6ab",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "94a5f1f0-18c7-42d3-b02b-974d58bab490",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "f9d1860e-a29c-48c3-942d-8fbda7a6881c"
+   }
+}

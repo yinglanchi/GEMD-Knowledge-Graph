@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "joule / centimeter ** 2", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "The calculated fluence of the laser", "name": "Fluence", "tags": [], "type": "condition_template", "uids": {"auto": "456ea02b-c012-4a0e-9345-33623ef9bbae"}}

@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "minute", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 300.0}, "description": "How long did it take to cut the flyers?", "name": "Time To Cut", "tags": [], "type": "property_template", "uids": {"auto": "8638e3f3-76f4-4c9f-b81e-4a061bdbbc39"}}

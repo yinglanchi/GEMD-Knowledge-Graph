@@ -1,0 +1,87 @@
+{
+    "file_links": [],
+    "name": "purchased_Na2CO3",
+    "notes": null,
+    "process": {
+        "id": "fbb84460-7284-4ea6-8c1c-35fa104d7a94",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "properties": [
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Supplier",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "category": "Alfa Aesar",
+                    "type": "nominal_categorical"
+                }
+            },
+            "type": "property_and_conditions"
+        },
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Purity",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "nominal": 0.997,
+                    "type": "nominal_real",
+                    "units": "dimensionless"
+                }
+            },
+            "type": "property_and_conditions"
+        },
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Chemical composition",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "formula": "Na2CO3",
+                    "type": "empirical_formula"
+                }
+            },
+            "type": "property_and_conditions"
+        },
+        {
+            "conditions": [],
+            "property": {
+                "file_links": [],
+                "name": "Chemical form",
+                "notes": null,
+                "origin": "specified",
+                "template": null,
+                "type": "property",
+                "value": {
+                    "category": "powder",
+                    "type": "nominal_categorical"
+                }
+            },
+            "type": "property_and_conditions"
+        }
+    ],
+    "tags": [],
+    "template": {
+        "id": "fdda1532-665f-4a92-a119-7340bc122942",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "type": "material_spec",
+    "uids": {
+        "auto": "8223ad46-c6ee-4ed9-a341-81678c46243d"
+    }
+}

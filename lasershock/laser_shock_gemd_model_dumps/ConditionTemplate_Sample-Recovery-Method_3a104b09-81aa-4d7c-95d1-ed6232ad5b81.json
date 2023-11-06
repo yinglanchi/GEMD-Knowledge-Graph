@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["3D printed grid", "Glass Petri Dish", "PDMS", "none"], "type": "categorical_bounds"}, "description": "How the sample was recovered after impact", "name": "Sample Recovery Method", "tags": [], "type": "condition_template", "uids": {"auto": "3a104b09-81aa-4d7c-95d1-ed6232ad5b81"}}

@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "erg / gauss / mole", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1000000000000000.0}, "description": null, "name": "Molar moment", "tags": [], "type": "property_template", "uids": {"auto": "2f42372a-868d-4941-a69d-e5aa01433130"}}

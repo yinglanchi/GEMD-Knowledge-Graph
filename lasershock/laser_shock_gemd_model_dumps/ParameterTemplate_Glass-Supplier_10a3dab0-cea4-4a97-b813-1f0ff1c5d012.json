@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["McMaster Carr"], "type": "categorical_bounds"}, "description": "The name of a supplier from which a piece of glass was procured", "name": "Glass Supplier", "tags": [], "type": "parameter_template", "uids": {"auto": "10a3dab0-cea4-4a97-b813-1f0ff1c5d012"}}

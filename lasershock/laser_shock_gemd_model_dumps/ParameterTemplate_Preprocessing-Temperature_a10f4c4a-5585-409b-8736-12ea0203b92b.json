@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "degree_Celsius", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "Temperature at which a raw sample is preprocessed", "name": "Preprocessing Temperature", "tags": [], "type": "parameter_template", "uids": {"auto": "a10f4c4a-5585-409b-8736-12ea0203b92b"}}

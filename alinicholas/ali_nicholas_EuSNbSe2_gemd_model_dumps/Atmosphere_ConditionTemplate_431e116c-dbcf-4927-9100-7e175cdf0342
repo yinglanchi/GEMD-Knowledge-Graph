@@ -1,0 +1,16 @@
+{
+   "bounds": {
+      "categories": [
+         "Air",
+         "Inner Atmosphere Glovebox"
+      ],
+      "type": "categorical_bounds"
+   },
+   "description": "A condition describing the atmosphere in which a process occurs",
+   "name": "Atmosphere",
+   "tags": [],
+   "type": "condition_template",
+   "uids": {
+      "auto": "431e116c-dbcf-4927-9100-7e175cdf0342"
+   }
+}

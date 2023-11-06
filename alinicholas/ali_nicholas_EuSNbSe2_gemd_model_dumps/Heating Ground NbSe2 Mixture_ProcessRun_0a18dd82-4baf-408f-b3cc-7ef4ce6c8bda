@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Heating Ground NbSe2 Mixture",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "e095c54b-90fd-4e26-9b80-cbf38a2adcc0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "0a18dd82-4baf-408f-b3cc-7ef4ce6c8bda"
+   }
+}

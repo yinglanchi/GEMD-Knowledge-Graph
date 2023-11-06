@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Diamond", "Silicon Carbide"], "type": "categorical_bounds"}, "description": "What was used to polish an impact sample intended for a Launch Package", "name": "Polishing Pad", "tags": [], "type": "parameter_template", "uids": {"auto": "c0610ab1-330b-4262-a34a-240e5a4af393"}}

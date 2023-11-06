@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Individual", "Large Area Plate"], "type": "categorical_bounds"}, "description": "Process used to polish an impact sample intended for a Launch Package", "name": "Polishing Process", "tags": [], "type": "condition_template", "uids": {"auto": "027ce786-775b-4711-ba57-9e972ac41e00"}}

@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Loctite"], "type": "categorical_bounds"}, "description": "The name of a supplier from which an Epoxy was procured", "name": "Epoxy Supplier", "tags": [], "type": "parameter_template", "uids": {"auto": "ea3985de-c8df-407f-909a-2330a05375b6"}}

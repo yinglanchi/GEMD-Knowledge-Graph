@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Alignment Stage", "Manual"], "type": "categorical_bounds"}, "description": "Method used to attach a spacer to a flyer in a Launch Package", "name": "Spacer Attachment Method", "tags": [], "type": "condition_template", "uids": {"auto": "8f8f3bd3-2769-4e43-a89d-2145f2f21c88"}}

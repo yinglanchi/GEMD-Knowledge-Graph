@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Sulfur",
+   "notes": null,
+   "process": {
+      "id": "07175059-b325-4237-ada4-939d50813e9c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "47397f33-41e7-4a63-95f9-9283e5b8e458",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "305b51b7-ce3c-483c-93af-f521e09bc460"
+   }
+}

@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "mean_international_ampere", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "", "name": "Current Set Point", "tags": [], "type": "parameter_template", "uids": {"auto": "cf5b03b0-a051-43d4-b9a3-e0afa181ea93"}}

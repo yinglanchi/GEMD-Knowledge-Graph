@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "millimeter", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 5.0}, "description": "The theoretical beam diameter, according to the manufacturer", "name": "Theoretical Beam Diameter", "tags": [], "type": "condition_template", "uids": {"auto": "79cdd653-1c32-4625-a65b-0c48dc092d71"}}

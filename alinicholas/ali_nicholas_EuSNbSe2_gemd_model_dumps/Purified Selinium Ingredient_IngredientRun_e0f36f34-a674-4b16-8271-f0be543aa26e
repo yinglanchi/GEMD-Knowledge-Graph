@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "55d99f75-0080-4242-93bb-5a10bc6d6bba",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Purified Selinium Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "708c5f76-20d3-4511-b57a-ad4afb41e6ac",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "f3ddea55-a248-4bc9-9b15-6791d49b6d90",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "e0f36f34-a674-4b16-8271-f0be543aa26e"
+   },
+   "volume_fraction": null
+}

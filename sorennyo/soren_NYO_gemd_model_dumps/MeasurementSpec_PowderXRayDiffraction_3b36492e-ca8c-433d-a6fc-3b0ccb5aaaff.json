@@ -1,0 +1,19 @@
+{
+    "conditions": [],
+    "file_links": [],
+    "name": "PowderXRayDiffraction",
+    "notes": null,
+    "parameters": [],
+    "tags": [
+        "Malvern Panalytical::Empyrean Alpha 1"
+    ],
+    "template": {
+        "id": "01a8bdd2-1f17-465e-a5f0-35fd2648ddf2",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "type": "measurement_spec",
+    "uids": {
+        "auto": "3b36492e-ca8c-433d-a6fc-3b0ccb5aaaff"
+    }
+}

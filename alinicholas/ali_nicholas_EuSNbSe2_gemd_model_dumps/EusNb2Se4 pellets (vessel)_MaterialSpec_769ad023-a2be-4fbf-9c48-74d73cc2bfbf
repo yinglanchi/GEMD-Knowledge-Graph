@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "EusNb2Se4 pellets (vessel)",
+   "notes": null,
+   "process": {
+      "id": "b5cfe014-740b-44dd-b571-dc4e07b002d7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Pellet",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "8dffcf89-bd19-4e98-8f9b-331763af83a4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "769ad023-a2be-4fbf-9c48-74d73cc2bfbf"
+   }
+}

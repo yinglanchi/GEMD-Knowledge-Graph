@@ -1,0 +1,29 @@
+{
+    "absolute_quantity": {
+        "nominal": 8.0172,
+        "type": "nominal_real",
+        "units": "gram"
+    },
+    "file_links": [],
+    "labels": [],
+    "mass_fraction": null,
+    "material": {
+        "id": "9cb0f23f-966e-4cad-b1a6-cba1f39c6c55",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "name": "ingredient_mixture",
+    "notes": null,
+    "number_fraction": null,
+    "process": {
+        "id": "fbe671fb-5bc9-4fc5-899b-480e48b1f207",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "ingredient_spec",
+    "uids": {
+        "auto": "086c16f1-c269-4ad6-8409-5123204d6bcf"
+    },
+    "volume_fraction": null
+}

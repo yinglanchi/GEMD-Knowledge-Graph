@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["OD 1", "OD 10", "OD 2", "OD 3", "OD 4", "OD 5", "OD 6", "OD 7", "OD 8", "OD 9"], "type": "categorical_bounds"}, "description": "The filter applied to the beampath sent to the beam profiler", "name": "Beam Profiler Filter", "tags": [], "type": "condition_template", "uids": {"auto": "de5622a7-a0c0-4141-8eb8-73537586a89c"}}

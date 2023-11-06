@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Narrow", "Open"], "type": "categorical_bounds"}, "description": "Whether the aperture used during a laser cutting procedure is narrow or open", "name": "Aperture Setting", "tags": [], "type": "parameter_template", "uids": {"auto": "a9f00d44-1e05-4165-a93d-28e406def60a"}}

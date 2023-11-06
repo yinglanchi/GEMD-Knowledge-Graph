@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Hard", "Soft", "Unknown"], "type": "categorical_bounds"}, "description": "The type of Hardness of the Foil", "name": "Foil Hardness", "tags": [], "type": "property_template", "uids": {"auto": "b1790d15-23a3-43c1-a3ae-061316f2a534"}}

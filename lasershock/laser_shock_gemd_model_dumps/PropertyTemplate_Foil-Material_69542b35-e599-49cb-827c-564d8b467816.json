@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Aluminum", "Copper"], "type": "categorical_bounds"}, "description": "The type of Material of the Foil", "name": "Foil Material", "tags": [], "type": "property_template", "uids": {"auto": "69542b35-e599-49cb-827c-564d8b467816"}}

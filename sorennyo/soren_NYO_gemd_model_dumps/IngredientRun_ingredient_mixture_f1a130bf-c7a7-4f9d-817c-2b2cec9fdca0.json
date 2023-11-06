@@ -1,0 +1,35 @@
+{
+    "absolute_quantity": {
+        "lower_bound": 7.9964,
+        "type": "uniform_real",
+        "units": "gram",
+        "upper_bound": 7.9966
+    },
+    "file_links": [],
+    "labels": [],
+    "mass_fraction": null,
+    "material": {
+        "id": "47ada67e-063f-4aee-a2dc-872cf9575a4c",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "name": "ingredient_mixture",
+    "notes": null,
+    "number_fraction": null,
+    "process": {
+        "id": "72a71e69-602f-4490-94c3-67f7c8bbdd98",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "spec": {
+        "id": "086c16f1-c269-4ad6-8409-5123204d6bcf",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "ingredient_run",
+    "uids": {
+        "auto": "f1a130bf-c7a7-4f9d-817c-2b2cec9fdca0"
+    },
+    "volume_fraction": null
+}

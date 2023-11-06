@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "degree",
+        "lower_bound": -180,
+        "type": "real_bounds",
+        "upper_bound": 180
+    },
+    "description": null,
+    "name": "2theta max",
+    "tags": [],
+    "type": "parameter_template",
+    "uids": {
+        "auto": "3d1b8f3d-9798-49c9-ae75-35c68cc5673d"
+    }
+}

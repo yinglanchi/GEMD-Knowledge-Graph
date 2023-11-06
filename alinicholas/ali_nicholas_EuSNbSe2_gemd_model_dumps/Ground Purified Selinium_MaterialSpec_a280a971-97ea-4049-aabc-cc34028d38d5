@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "Ground Purified Selinium",
+   "notes": null,
+   "process": {
+      "id": "1603c6be-221e-4708-9b61-6bc15b456be8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Powder",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "a6eedc72-0725-4d47-9d1f-125fc14362b5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "a280a971-97ea-4049-aabc-cc34028d38d5"
+   }
+}

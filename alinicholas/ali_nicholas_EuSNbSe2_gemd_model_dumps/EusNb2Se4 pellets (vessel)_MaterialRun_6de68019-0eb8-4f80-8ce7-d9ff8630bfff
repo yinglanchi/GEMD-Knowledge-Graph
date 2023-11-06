@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "EusNb2Se4 pellets (vessel)",
+   "notes": null,
+   "process": {
+      "id": "bada7bac-99de-44a6-937a-73f070dee11f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "769ad023-a2be-4fbf-9c48-74d73cc2bfbf",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_10"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "6de68019-0eb8-4f80-8ce7-d9ff8630bfff"
+   }
+}

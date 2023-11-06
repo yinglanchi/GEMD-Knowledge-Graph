@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "10e3ccfe-8ff0-4139-be1e-ef2b2fc7fd65",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": " Europium Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "43d9e08e-c4a0-4951-adfc-06c7cc42fb4a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "9aec6466-52ea-4d32-a45a-f7ff123d1c06"
+   },
+   "volume_fraction": null
+}

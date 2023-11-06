@@ -1,0 +1,50 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Purchasing Niobium",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "Manufacturer",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "b106d015-b2bd-40f6-ae01-7b945567b2f0",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "Alfa Aesar",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Lot ID",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "f1208f5d-1f89-4caf-9246-80bf9072a35b",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "W19F006",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "30c48a8b-9fc0-4655-a11a-b1f7dabfdcf4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "4ac91361-5354-4dee-ab20-053a026ccb2e"
+   }
+}

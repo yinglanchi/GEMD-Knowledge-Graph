@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Ground EuS and NbSe2 mix",
+   "notes": null,
+   "process": {
+      "id": "0a150347-8a7e-4624-a121-37e813301291",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "0eeeb22b-d0eb-47fa-a42c-8774c0ef3be1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "923cf7ec-ecb2-4ede-939a-e4672a541bb9"
+   }
+}

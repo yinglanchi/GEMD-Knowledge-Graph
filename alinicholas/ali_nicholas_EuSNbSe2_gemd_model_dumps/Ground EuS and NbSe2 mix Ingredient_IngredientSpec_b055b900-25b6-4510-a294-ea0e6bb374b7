@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "0eeeb22b-d0eb-47fa-a42c-8774c0ef3be1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Ground EuS and NbSe2 mix Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "e235f9eb-1cbb-4431-be8d-c6498764949a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "b055b900-25b6-4510-a294-ea0e6bb374b7"
+   },
+   "volume_fraction": null
+}

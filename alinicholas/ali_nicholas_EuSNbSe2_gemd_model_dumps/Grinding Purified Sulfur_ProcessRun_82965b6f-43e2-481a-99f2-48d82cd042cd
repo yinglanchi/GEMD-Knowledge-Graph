@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Grinding Purified Sulfur",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "280044ac-120e-4fd0-bf33-039dc199ae98",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "82965b6f-43e2-481a-99f2-48d82cd042cd"
+   }
+}

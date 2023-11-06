@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Extrusion Direction", "Longitudinal Direction", "Normal Direction", "Transverse Direction"], "type": "categorical_bounds"}, "description": "The orientation of the impact sample in a Launch Package", "name": "Sample Orientation", "tags": [], "type": "parameter_template", "uids": {"auto": "37690317-9aaa-40fd-a6fe-d7e82c97db09"}}

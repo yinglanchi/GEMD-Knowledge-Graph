@@ -1,0 +1,19 @@
+{
+   "description": "A material pressed with a pellet press set",
+   "name": "Pressed Material",
+   "properties": [
+      [
+         {
+            "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "material_template",
+   "uids": {
+      "auto": "8dffcf89-bd19-4e98-8f9b-331763af83a4"
+   }
+}

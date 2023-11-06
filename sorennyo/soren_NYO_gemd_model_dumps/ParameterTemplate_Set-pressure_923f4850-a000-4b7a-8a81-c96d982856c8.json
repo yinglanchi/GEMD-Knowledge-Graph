@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "pascal", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1000000000000000.0}, "description": null, "name": "Set pressure", "tags": [], "type": "parameter_template", "uids": {"auto": "923f4850-a000-4b7a-8a81-c96d982856c8"}}

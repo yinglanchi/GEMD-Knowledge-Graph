@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "10ea2881-0d61-4f25-b544-3c02bf338dc6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Synthesized EuS Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "65065b14-b240-4a37-9df1-ab7a19d5187f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "ddbd0dc6-c594-478c-b56a-c735693abfcb",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "05f18a83-027e-44c2-b780-e2b05f4933ea"
+   },
+   "volume_fraction": null
+}

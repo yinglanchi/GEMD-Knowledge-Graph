@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Heating Sulfur",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "b9237790-4823-4072-8b34-2e0bf1e24455",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "d1f703bb-13cb-4eae-8575-f7bbe784d88f"
+   }
+}

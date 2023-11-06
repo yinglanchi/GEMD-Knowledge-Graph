@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "Purified Selenium",
+   "notes": null,
+   "process": {
+      "id": "b37c555c-34f2-4340-b693-620aa723e299",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "409f13d9-c62d-4a58-8aab-2d17491669bf",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "73a97770-1839-435d-9865-67202e11d886"
+   }
+}

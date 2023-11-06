@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "pascal",
+        "lower_bound": 0,
+        "type": "real_bounds",
+        "upper_bound": 200000.0
+    },
+    "description": null,
+    "name": "Atmospheric pressure",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "610596b4-9d99-4380-8b15-29c8fdef825a"
+    }
+}

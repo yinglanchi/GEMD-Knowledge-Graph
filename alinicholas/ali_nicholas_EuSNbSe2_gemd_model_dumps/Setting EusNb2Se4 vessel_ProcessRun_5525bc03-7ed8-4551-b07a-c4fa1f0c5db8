@@ -1,0 +1,74 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Atmosphere",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "431e116c-dbcf-4927-9100-7e175cdf0342",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Inner Atmosphere Glovebox",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [],
+   "name": "Setting EusNb2Se4 vessel",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "Equipment Used",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "0471f9aa-d24d-4598-ac94-02c6dd1c8d1d",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "Quartz Tube",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Equipment Used",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "0471f9aa-d24d-4598-ac94-02c6dd1c8d1d",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "Quartz Wool",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "source": {
+      "performed_by": "nng3@jhu.edu",
+      "performed_date": "01/13",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "1b677cc3-b46e-4dab-8fa8-64f9473e9523",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "5525bc03-7ed8-4551-b07a-c4fa1f0c5db8"
+   }
+}

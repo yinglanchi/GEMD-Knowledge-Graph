@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "8531b711-3de1-4750-8236-070237ad2bcb",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "EusNb2Se4 pellets Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "bada7bac-99de-44a6-937a-73f070dee11f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "f4f151a5-93b8-4012-8fca-4396006fea9f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_10"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "c273174e-3e57-40d5-94f4-318bfd88f3dd"
+   },
+   "volume_fraction": null
+}

@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "81291da6-7583-40cb-9888-5695b62bc2ac",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Selenium Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "b37c555c-34f2-4340-b693-620aa723e299",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "3322faa3-b37a-4149-888b-f429566b3f32",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "f55b6a05-96e2-4522-a470-bf642f20acd2"
+   },
+   "volume_fraction": null
+}

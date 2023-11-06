@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Selenium",
+   "notes": null,
+   "process": {
+      "id": "03e78884-82c4-41f2-ae2b-245913b89be6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "9cafa40b-443a-4be9-9f2d-dffa3cc8ee80",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "397783e2-8412-4140-acc6-14031a294e7c"
+   }
+}

@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["0", "1", "2"], "type": "categorical_bounds"}, "description": "Setting for the doubler on the high speed camera", "name": "Doubler", "tags": [], "type": "condition_template", "uids": {"auto": "e932d95d-599d-4142-9dd3-f09cc8a5f65a"}}

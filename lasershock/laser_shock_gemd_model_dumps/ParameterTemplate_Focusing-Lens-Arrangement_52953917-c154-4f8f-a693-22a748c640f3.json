@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["New", "Old"], "type": "categorical_bounds"}, "description": "Whether the focusing lens in the PDV system is set according to the \"new\" or \"old\" arrangement", "name": "Focusing Lens Arrangement", "tags": [], "type": "parameter_template", "uids": {"auto": "52953917-c154-4f8f-a693-22a748c640f3"}}

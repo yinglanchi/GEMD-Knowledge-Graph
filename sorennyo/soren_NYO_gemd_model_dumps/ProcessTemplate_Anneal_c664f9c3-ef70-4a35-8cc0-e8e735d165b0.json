@@ -1,0 +1,68 @@
+{
+    "allowed_labels": [],
+    "allowed_names": [],
+    "conditions": [
+        [
+            {
+                "id": "5d09b7f6-a320-4ac1-8af0-622f191aa230",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "610596b4-9d99-4380-8b15-29c8fdef825a",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ]
+    ],
+    "description": null,
+    "name": "Anneal",
+    "parameters": [
+        [
+            {
+                "id": "e7b5be2c-249f-42d3-8c4f-d1492f5e80bd",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "fccb4824-faa3-4938-a171-16e60fd5ed60",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            {
+                "default_units": "degree_Celsius",
+                "lower_bound": 0,
+                "type": "real_bounds",
+                "upper_bound": 1500
+            }
+        ],
+        [
+            {
+                "id": "751db898-da2d-424d-abd2-6cea11fda42d",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "3a1fd515-0c72-4a95-ae61-ae5e9423fe0d",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ]
+    ],
+    "tags": [],
+    "type": "process_template",
+    "uids": {
+        "auto": "c664f9c3-ef70-4a35-8cc0-e8e735d165b0"
+    }
+}

@@ -1,0 +1,23 @@
+{
+   "file_links": [],
+   "name": "Ground, Purified Selenium",
+   "notes": null,
+   "process": {
+      "id": "028fd1d3-ddad-4fab-b8e6-3795e2b7f353",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "experimental",
+   "spec": {
+      "id": "a280a971-97ea-4049-aabc-cc34028d38d5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "708391c0-f12a-438d-b4c9-cb505fce7e79"
+   }
+}

@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "degree",
+        "lower_bound": -180,
+        "type": "real_bounds",
+        "upper_bound": 180
+    },
+    "description": null,
+    "name": "2theta",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "285271f6-50cb-4943-8920-bb1879c0c3fa"
+    }
+}

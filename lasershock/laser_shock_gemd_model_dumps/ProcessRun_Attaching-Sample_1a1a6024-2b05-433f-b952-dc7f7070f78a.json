@@ -1,0 +1,1 @@
+{"conditions": [], "file_links": [], "name": "Attaching Sample", "notes": null, "parameters": [], "source": {"performed_by": "Lim", "performed_date": "06/13/2022", "type": "performed_source"}, "spec": {"id": "b9274d86-b97a-4e39-b097-efee075e171a", "scope": "auto", "type": "link_by_uid"}, "tags": [], "type": "process_run", "uids": {"auto": "1a1a6024-2b05-433f-b952-dc7f7070f78a"}}

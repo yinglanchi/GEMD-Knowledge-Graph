@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Kapton"], "type": "categorical_bounds"}, "description": "The material that the Spacer is made of", "name": "Spacer Material", "tags": [], "type": "property_template", "uids": {"auto": "679a3b7b-a048-404f-b6b0-ddcf0b1a71b6"}}

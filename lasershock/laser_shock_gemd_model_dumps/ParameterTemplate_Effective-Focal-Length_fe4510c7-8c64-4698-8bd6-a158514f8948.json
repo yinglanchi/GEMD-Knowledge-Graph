@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "millimeter", "lower_bound": 60.0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "The effective focal length of the focusing lens between the beam shaper and power meter", "name": "Effective Focal Length", "tags": [], "type": "parameter_template", "uids": {"auto": "fe4510c7-8c64-4698-8bd6-a158514f8948"}}

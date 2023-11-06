@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1000000000000000.0}, "description": null, "name": "Measured intensity", "tags": [], "type": "property_template", "uids": {"auto": "4adef6bd-4ec2-445b-af9e-69dfcb0154f1"}}

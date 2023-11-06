@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "nanometer", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 3000.0}, "description": "Wavelength of the reference laser", "name": "Reference Laser Wavelength", "tags": [], "type": "parameter_template", "uids": {"auto": "c4193450-a3b6-4f67-a66d-1bafd8d8b323"}}

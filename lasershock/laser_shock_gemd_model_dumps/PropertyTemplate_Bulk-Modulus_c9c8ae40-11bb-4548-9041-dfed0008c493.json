@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "gigapascal", "lower_bound": 0, "type": "real_bounds", "upper_bound": 10000}, "description": "The bulk modulus of a material", "name": "Bulk Modulus", "tags": [], "type": "property_template", "uids": {"auto": "c9c8ae40-11bb-4548-9041-dfed0008c493"}}

@@ -1,0 +1,15 @@
+{
+   "bounds": {
+      "default_units": "degree_Celsius",
+      "lower_bound": 0,
+      "type": "real_bounds",
+      "upper_bound": 1100
+   },
+   "description": "The rate at which the furnace is heated/cooled during a heating phase",
+   "name": "Furnace Rate",
+   "tags": [],
+   "type": "parameter_template",
+   "uids": {
+      "auto": "85546fe9-ce12-41fd-9c4f-b2d4a2b21986"
+   }
+}

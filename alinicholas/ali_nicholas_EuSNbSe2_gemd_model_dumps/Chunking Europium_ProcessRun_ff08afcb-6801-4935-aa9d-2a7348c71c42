@@ -1,0 +1,41 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Atmosphere",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "431e116c-dbcf-4927-9100-7e175cdf0342",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Inner Atmosphere Glovebox",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [],
+   "name": "Chunking Europium",
+   "notes": null,
+   "parameters": [],
+   "source": {
+      "performed_by": "nng3@jhu.edu",
+      "performed_date": "01/13",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "43d9e08e-c4a0-4951-adfc-06c7cc42fb4a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_13"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "ff08afcb-6801-4935-aa9d-2a7348c71c42"
+   }
+}

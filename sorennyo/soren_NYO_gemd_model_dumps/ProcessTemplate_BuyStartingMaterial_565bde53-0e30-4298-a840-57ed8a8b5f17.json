@@ -1,0 +1,13 @@
+{
+    "allowed_labels": [],
+    "allowed_names": [],
+    "conditions": [],
+    "description": null,
+    "name": "BuyStartingMaterial",
+    "parameters": [],
+    "tags": [],
+    "type": "process_template",
+    "uids": {
+        "auto": "565bde53-0e30-4298-a840-57ed8a8b5f17"
+    }
+}

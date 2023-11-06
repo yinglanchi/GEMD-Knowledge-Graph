@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Impact Side", "PDV Side"], "type": "categorical_bounds"}, "description": "Which was the other side of the sample that was polished?", "name": "Polishing Side 2", "tags": [], "type": "parameter_template", "uids": {"auto": "7f6fa8b5-e0fa-421a-b9f5-62e3f0e8e6bf"}}

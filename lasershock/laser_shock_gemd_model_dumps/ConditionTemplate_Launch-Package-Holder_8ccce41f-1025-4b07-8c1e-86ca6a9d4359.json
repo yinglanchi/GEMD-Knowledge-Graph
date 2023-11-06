@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Kinematic Optical Mount", "Simple Clamp", "Vacuum Chamber"], "type": "categorical_bounds"}, "description": "The method used to hold the launch package in place", "name": "Launch Package Holder", "tags": [], "type": "condition_template", "uids": {"auto": "8ccce41f-1025-4b07-8c1e-86ca6a9d4359"}}

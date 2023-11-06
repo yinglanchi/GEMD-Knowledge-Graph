@@ -1,0 +1,21 @@
+{
+    "file_links": [],
+    "name": "(Yb0.75Lu0.25)2O3",
+    "notes": null,
+    "process": {
+        "id": "e005b47b-344c-49b4-aa73-8204c2744452",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "sample_type": "unknown",
+    "spec": {
+        "id": "d128056c-d66a-465a-8bf7-5e6d19d23803",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "material_run",
+    "uids": {
+        "auto": "11a472ff-f157-4004-b94c-b29adab2289b"
+    }
+}

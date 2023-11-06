@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "kelvin",
+        "lower_bound": 0,
+        "type": "real_bounds",
+        "upper_bound": 400
+    },
+    "description": null,
+    "name": "Measured temperature",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "1bdb7833-cfbe-4197-8ba8-f53286552319"
+    }
+}

@@ -1,0 +1,25 @@
+{
+   "bounds": {
+      "categories": [
+         "Amorphous",
+         "Chunk",
+         "Chunk and Powder",
+         "Crystal",
+         "Ingot",
+         "Pellet",
+         "Pieces",
+         "Powder",
+         "Powder -325 mesh",
+         "Solid",
+         "resublimed crystals"
+      ],
+      "type": "categorical_bounds"
+   },
+   "description": "The form of a particular material",
+   "name": "Form",
+   "tags": [],
+   "type": "property_template",
+   "uids": {
+      "auto": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806"
+   }
+}

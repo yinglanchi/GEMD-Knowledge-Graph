@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Off", "On"], "type": "categorical_bounds"}, "description": "Whether the depth of cut setting is turned on or off during a laser cutting procedure", "name": "Depth of Cut", "tags": [], "type": "parameter_template", "uids": {"auto": "29083154-32f9-4ea9-b0d3-e418547df44b"}}

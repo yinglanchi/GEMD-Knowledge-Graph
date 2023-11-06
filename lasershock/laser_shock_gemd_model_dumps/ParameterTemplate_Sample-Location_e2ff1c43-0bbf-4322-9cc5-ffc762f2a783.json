@@ -1,0 +1,1 @@
+{"bounds": {"lower_bound": 0, "type": "integer_bounds", "upper_bound": 100}, "description": "The location of an impact sample", "name": "Sample Location", "tags": [], "type": "parameter_template", "uids": {"auto": "e2ff1c43-0bbf-4322-9cc5-ffc762f2a783"}}

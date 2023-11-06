@@ -1,0 +1,49 @@
+{
+    "conditions": [
+        {
+            "file_links": [],
+            "name": "Atmosphere",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "condition",
+            "value": {
+                "category": "air",
+                "type": "nominal_categorical"
+            }
+        }
+    ],
+    "file_links": [],
+    "name": "Grind",
+    "notes": null,
+    "parameters": [
+        {
+            "file_links": [],
+            "name": "Duration",
+            "notes": null,
+            "origin": "specified",
+            "template": null,
+            "type": "parameter",
+            "value": {
+                "nominal": 30.0,
+                "type": "nominal_real",
+                "units": "minute"
+            }
+        }
+    ],
+    "source": {
+        "performed_by": "sbear@ucsb.edu",
+        "performed_date": null,
+        "type": "performed_source"
+    },
+    "spec": {
+        "id": "4170c9a4-f9cf-4a8b-8d11-b301d4ce40d6",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "process_run",
+    "uids": {
+        "auto": "41349506-1658-4fc8-98b8-eff23fdd855e"
+    }
+}

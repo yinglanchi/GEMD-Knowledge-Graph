@@ -1,0 +1,35 @@
+{
+    "absolute_quantity": {
+        "lower_bound": 4.4918,
+        "type": "uniform_real",
+        "units": "gram",
+        "upper_bound": 4.4919
+    },
+    "file_links": [],
+    "labels": [],
+    "mass_fraction": null,
+    "material": {
+        "id": "d56beb7d-1362-4f15-adf0-7b85b06e6a6f",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "name": "ingredient_Yb2O3",
+    "notes": null,
+    "number_fraction": null,
+    "process": {
+        "id": "e005b47b-344c-49b4-aa73-8204c2744452",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "spec": {
+        "id": "4e799d9e-de7f-4217-ac37-ae8ebc628ece",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "ingredient_run",
+    "uids": {
+        "auto": "3db0f2e6-bdb8-4ce7-9970-0588aaf9f1b4"
+    },
+    "volume_fraction": null
+}

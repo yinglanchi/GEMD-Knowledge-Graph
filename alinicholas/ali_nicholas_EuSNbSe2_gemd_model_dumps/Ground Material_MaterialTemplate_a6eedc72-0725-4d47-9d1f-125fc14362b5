@@ -1,0 +1,19 @@
+{
+   "description": "A material ground into a powder",
+   "name": "Ground Material",
+   "properties": [
+      [
+         {
+            "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "material_template",
+   "uids": {
+      "auto": "a6eedc72-0725-4d47-9d1f-125fc14362b5"
+   }
+}

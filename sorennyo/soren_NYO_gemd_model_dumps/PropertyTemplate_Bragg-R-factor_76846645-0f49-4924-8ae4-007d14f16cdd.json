@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1000000000000000.0}, "description": null, "name": "Bragg R-factor", "tags": [], "type": "property_template", "uids": {"auto": "76846645-0f49-4924-8ae4-007d14f16cdd"}}

@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "eb249688-45ec-46f7-a811-c69dee3f28d4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Ground EuS, Nb and Se mix Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "46ca2fd3-c1ec-450f-9162-5a2eb795a085",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "51145cb9-3635-43f0-b441-cb06dcd94bad",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "8114dcdf-831b-4335-bfa0-1a6faf2b27d3"
+   },
+   "volume_fraction": null
+}

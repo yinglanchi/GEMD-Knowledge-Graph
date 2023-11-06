@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Purified Selinium",
+   "notes": null,
+   "process": {
+      "id": "c871de89-98c2-4ed9-a9ac-43b2cb5e7a30",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "409f13d9-c62d-4a58-8aab-2d17491669bf",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "cd26a0f1-c742-4ab6-9610-42d3363c573d"
+   }
+}

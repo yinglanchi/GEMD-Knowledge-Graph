@@ -1,0 +1,15 @@
+{
+   "bounds": {
+      "default_units": "dimensionless",
+      "lower_bound": 0.0,
+      "type": "real_bounds",
+      "upper_bound": 100.0
+   },
+   "description": "The purity of a particular material as a percentage (not defined in GEMD)",
+   "name": "Purity Percentage",
+   "tags": [],
+   "type": "property_template",
+   "uids": {
+      "auto": "b7b81365-2d4e-41b5-8979-55f29f9186f0"
+   }
+}

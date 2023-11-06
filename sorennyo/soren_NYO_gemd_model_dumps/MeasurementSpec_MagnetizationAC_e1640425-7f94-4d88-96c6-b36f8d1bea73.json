@@ -1,0 +1,19 @@
+{
+    "conditions": [],
+    "file_links": [],
+    "name": "MagnetizationAC",
+    "notes": null,
+    "parameters": [],
+    "tags": [
+        "Quantum Design::PPMS DynaCool::D3"
+    ],
+    "template": {
+        "id": "1150ee57-1fb8-4846-a604-c440bc90126d",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "type": "measurement_spec",
+    "uids": {
+        "auto": "e1640425-7f94-4d88-96c6-b36f8d1bea73"
+    }
+}

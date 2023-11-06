@@ -1,0 +1,30 @@
+{
+    "absolute_quantity": null,
+    "file_links": [],
+    "labels": [],
+    "mass_fraction": null,
+    "material": {
+        "id": "916c4094-0b09-4ca3-ab53-ac83a3e373ba",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "name": "Chosen Flyer",
+    "notes": null,
+    "number_fraction": null,
+    "process": {
+        "id": "b1ba8194-09f8-44a2-8d69-8e318f779a80",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "spec": {
+        "id": "0ded66f7-777a-4713-a70d-16e08af53266",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "ingredient_run",
+    "uids": {
+        "auto": "0ea48b06-6069-45b6-b822-0401cc3f9d9d"
+    },
+    "volume_fraction": null
+}

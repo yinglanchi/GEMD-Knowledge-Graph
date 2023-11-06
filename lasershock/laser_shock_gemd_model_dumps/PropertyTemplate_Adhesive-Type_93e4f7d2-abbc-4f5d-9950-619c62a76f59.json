@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Acrylic", "N/A", "Silicone"], "type": "categorical_bounds"}, "description": "The type of Adhesive used in the Spacer", "name": "Adhesive Type", "tags": [], "type": "property_template", "uids": {"auto": "93e4f7d2-abbc-4f5d-9950-619c62a76f59"}}

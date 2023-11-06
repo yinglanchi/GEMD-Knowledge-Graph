@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["CS Hyde"], "type": "categorical_bounds"}, "description": "The name of a supplier from which a spacer was procured", "name": "Spacer Supplier", "tags": [], "type": "parameter_template", "uids": {"auto": "e3a2d3b7-db9f-4adb-a469-6b694c53340f"}}

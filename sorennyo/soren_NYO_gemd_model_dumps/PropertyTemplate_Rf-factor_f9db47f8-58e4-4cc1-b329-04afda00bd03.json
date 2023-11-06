@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1000000000000000.0}, "description": null, "name": "Rf-factor", "tags": [], "type": "property_template", "uids": {"auto": "f9db47f8-58e4-4cc1-b329-04afda00bd03"}}

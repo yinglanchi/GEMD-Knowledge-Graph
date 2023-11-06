@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "inch", "lower_bound": 0, "type": "real_bounds", "upper_bound": 50}, "description": "The width of the Foil", "name": "Foil Width", "tags": [], "type": "property_template", "uids": {"auto": "702e5dc4-ccf8-4d66-9bda-0945cd992e2e"}}

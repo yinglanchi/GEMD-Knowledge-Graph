@@ -1,0 +1,39 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [
+      [
+         {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "description": "Removing tube from tube furnacew with tongs to grab the tube wrapped with wire and submerge in water",
+   "name": "Quenching Tube",
+   "parameters": [
+      [
+         {
+            "id": "0471f9aa-d24d-4598-ac94-02c6dd1c8d1d",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ],
+      [
+         {
+            "id": "aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "ffb8cc1f-1ba2-42b9-88ad-2e7682cc958f"
+   }
+}

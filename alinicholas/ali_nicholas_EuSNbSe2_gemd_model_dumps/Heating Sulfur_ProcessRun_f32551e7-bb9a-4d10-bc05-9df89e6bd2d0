@@ -1,0 +1,171 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Location",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Purification Tube Furnace",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Atmosphere",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "431e116c-dbcf-4927-9100-7e175cdf0342",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Air",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [
+      {
+         "filename": "Sulfur Purifcation Notecard",
+         "type": "file_link",
+         "url": "photos/S_purification_notecard.jpg"
+      },
+      {
+         "filename": "Purification Tube Furnace",
+         "type": "file_link",
+         "url": "photos/equipment/purification_tube_furnace.jpg"
+      }
+   ],
+   "name": "Heating Sulfur",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "ramp_up_1_time",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 1.5,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "ramp_up_1_rate",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "85546fe9-ce12-41fd-9c4f-b2d4a2b21986",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 50.0,
+            "type": "nominal_real",
+            "units": "degree_Celsius"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "dwell_1_time",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 12.0,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "dwell_1_temperature",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "c837c92a-cbd0-4e6f-b976-9ffe1682ffdb",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 100.0,
+            "type": "nominal_real",
+            "units": "degree_Celsius"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "ramp_down_1_time",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "aeb8081b-d8a4-47e5-9fd6-fd5e9bdcb5a1",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 0.75,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "ramp_down_1_rate",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "85546fe9-ce12-41fd-9c4f-b2d4a2b21986",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 100.0,
+            "type": "nominal_real",
+            "units": "degree_Celsius"
+         }
+      }
+   ],
+   "source": {
+      "performed_by": "nng3@jhu.edu",
+      "performed_date": "01/20",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "b9237790-4823-4072-8b34-2e0bf1e24455",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_20"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "f32551e7-bb9a-4d10-bc05-9df89e6bd2d0"
+   }
+}

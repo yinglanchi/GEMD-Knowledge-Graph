@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "kelvin", "lower_bound": 0, "type": "real_bounds", "upper_bound": 10000}, "description": null, "name": "Set temperature", "tags": [], "type": "parameter_template", "uids": {"auto": "fccb4824-faa3-4938-a171-16e60fd5ed60"}}

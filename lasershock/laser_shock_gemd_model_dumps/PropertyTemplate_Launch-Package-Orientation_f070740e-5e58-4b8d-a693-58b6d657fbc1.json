@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Flat", "Major Rotation", "Slight Rotation"], "type": "categorical_bounds"}, "description": "Orientation of the launch package", "name": "Launch Package Orientation", "tags": [], "type": "property_template", "uids": {"auto": "f070740e-5e58-4b8d-a693-58b6d657fbc1"}}

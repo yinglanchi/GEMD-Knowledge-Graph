@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "gram", "lower_bound": 0, "type": "real_bounds", "upper_bound": 10}, "description": null, "name": "Sample mass", "tags": [], "type": "parameter_template", "uids": {"auto": "f318c4b8-2576-4ace-af02-0c02acdd8112"}}

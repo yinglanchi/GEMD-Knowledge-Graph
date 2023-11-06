@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Grinding Synthesized EuS",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "3ad6f87d-862f-47e3-87dd-4d9e2a52eeb1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "76a861e9-3825-4b84-99ac-3be7058b1ac3"
+   }
+}

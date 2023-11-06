@@ -1,0 +1,1 @@
+{"conditions": [], "file_links": [], "name": "Attaching Sample", "notes": null, "parameters": [], "source": {"performed_by": "Zare", "performed_date": "03/31/2023", "type": "performed_source"}, "spec": {"id": "391b6a76-8cae-492c-bf45-49c55257cf7c", "scope": "auto", "type": "link_by_uid"}, "tags": [], "type": "process_run", "uids": {"auto": "d08521bf-0696-4e50-96a3-2e96fb69ace6"}}

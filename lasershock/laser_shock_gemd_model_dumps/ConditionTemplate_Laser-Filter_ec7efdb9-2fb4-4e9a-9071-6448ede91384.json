@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["IR filter", "Texwipe/diffuser", "none"], "type": "categorical_bounds"}, "description": "The filter applied to the illumination laser", "name": "Laser Filter", "tags": [], "type": "condition_template", "uids": {"auto": "ec7efdb9-2fb4-4e9a-9071-6448ede91384"}}

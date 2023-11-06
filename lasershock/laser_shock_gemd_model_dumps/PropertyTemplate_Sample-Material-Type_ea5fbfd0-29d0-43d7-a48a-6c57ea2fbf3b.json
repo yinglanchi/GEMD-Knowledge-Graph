@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["BMG", "Ceramic", "Composite", "HEA", "Metal", "Polymer"], "type": "categorical_bounds"}, "description": "Possible values in the \"Material\" menu buttons in the \"Sample\" layout", "name": "Sample Material Type", "tags": [], "type": "property_template", "uids": {"auto": "ea5fbfd0-29d0-43d7-a48a-6c57ea2fbf3b"}}

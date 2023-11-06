@@ -1,0 +1,19 @@
+{
+   "description": "A material chunked into small pieces to attain specific mass and/or volume",
+   "name": "Chunked Material",
+   "properties": [
+      [
+         {
+            "id": "ada74071-1e76-4ba6-aaaf-3e7f09c2c806",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "material_template",
+   "uids": {
+      "auto": "da1858ab-8d26-448c-b64f-687876cbc0dc"
+   }
+}

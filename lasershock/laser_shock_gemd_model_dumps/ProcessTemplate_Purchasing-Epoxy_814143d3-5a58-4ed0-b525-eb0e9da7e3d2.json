@@ -1,0 +1,1 @@
+{"allowed_labels": [], "allowed_names": [], "conditions": [], "description": "Purchasing an Epoxy from a manufacturer", "name": "Purchasing Epoxy", "parameters": [[{"id": "ea3985de-c8df-407f-909a-2330a05375b6", "scope": "auto", "type": "link_by_uid"}, null]], "tags": [], "type": "process_template", "uids": {"auto": "814143d3-5a58-4ed0-b525-eb0e9da7e3d2"}}

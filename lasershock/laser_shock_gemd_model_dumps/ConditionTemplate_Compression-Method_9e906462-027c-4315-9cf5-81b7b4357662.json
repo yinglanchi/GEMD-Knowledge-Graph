@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Apparatus", "Handclamp"], "type": "categorical_bounds"}, "description": "Method used to compress a glass/epoxy/flyer stack", "name": "Compression Method", "tags": [], "type": "condition_template", "uids": {"auto": "9e906462-027c-4315-9cf5-81b7b4357662"}}

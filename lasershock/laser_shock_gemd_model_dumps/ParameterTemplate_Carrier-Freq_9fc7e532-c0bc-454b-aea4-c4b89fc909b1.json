@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "gigahenry", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 20.0}, "description": "Carrier frequency (theoretical)", "name": "Carrier Freq", "tags": [], "type": "parameter_template", "uids": {"auto": "9fc7e532-c0bc-454b-aea4-c4b89fc909b1"}}

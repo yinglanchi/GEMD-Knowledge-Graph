@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1}, "description": null, "name": "Purity", "tags": [], "type": "property_template", "uids": {"auto": "4ffc81ff-8f93-4d58-9ff9-0e2e400be27c"}}

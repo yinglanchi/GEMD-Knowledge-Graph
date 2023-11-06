@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["0", "1", "2", "3", "4", "5", "6", "7"], "type": "categorical_bounds"}, "description": "The aperture setting on the high speed camera", "name": "Camera Aperture", "tags": [], "type": "condition_template", "uids": {"auto": "e186bbf5-2e98-4af7-90c3-78fb39c27f84"}}

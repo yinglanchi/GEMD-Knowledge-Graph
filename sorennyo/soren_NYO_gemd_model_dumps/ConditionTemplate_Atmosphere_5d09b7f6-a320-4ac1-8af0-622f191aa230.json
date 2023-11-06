@@ -1,0 +1,16 @@
+{
+    "bounds": {
+        "categories": [
+            "air",
+            "argon"
+        ],
+        "type": "categorical_bounds"
+    },
+    "description": null,
+    "name": "Atmosphere",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "5d09b7f6-a320-4ac1-8af0-622f191aa230"
+    }
+}

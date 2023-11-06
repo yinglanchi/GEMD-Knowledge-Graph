@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Long pulse", "Q switched"], "type": "categorical_bounds"}, "description": "Mode in which the drive laser is run", "name": "Drive Laser Mode", "tags": [], "type": "parameter_template", "uids": {"auto": "52b86f6d-4dde-49eb-b38b-f411ae3b988c"}}

@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["1-Point", "32-Point"], "type": "categorical_bounds"}, "description": "Whether the PDV system is set up in 1-point or 32-point mode", "name": "System Configuration", "tags": [], "type": "parameter_template", "uids": {"auto": "6cbf0926-8344-4f56-bfd9-a8dda89f0424"}}

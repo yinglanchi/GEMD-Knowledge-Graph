@@ -1,0 +1,63 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Location",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "X-Ray Diffraction Panel",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [
+      {
+         "filename": "XRD Panel",
+         "type": "file_link",
+         "url": "photos/equipment/xrd_panel.jpg"
+      },
+      {
+         "filename": "post-XRD on Tube 1",
+         "type": "file_link",
+         "url": "xrd/ML_Spider_post_20230123_1_NN_EuSSynthesis_Tube1_5-60_4min.raw"
+      },
+      {
+         "filename": "post-XRD on Tube 2",
+         "type": "file_link",
+         "url": "xrd/ML_Spider_post_20230123_1_NN_EuSSynthesis_Tube2_5-60_4min.raw"
+      }
+   ],
+   "material": {
+      "id": "6f4ad594-21ad-4f21-8fd8-61bd1ae91e7d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "EusNb2Se4 XRD characterization",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": {
+      "performed_by": "nng3@jhu.edu",
+      "performed_date": "01/23",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "6fabe966-c885-414b-85f4-a0ca0916ad9c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "b5cca0d9-0ee5-4e34-93d9-6b3c0f7c0028"
+   }
+}

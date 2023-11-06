@@ -1,0 +1,17 @@
+{
+    "bounds": {
+        "categories": [
+            "alumina",
+            "platinum",
+            "quartz"
+        ],
+        "type": "categorical_bounds"
+    },
+    "description": null,
+    "name": "Container",
+    "tags": [],
+    "type": "parameter_template",
+    "uids": {
+        "auto": "3a1fd515-0c72-4a95-ae61-ae5e9423fe0d"
+    }
+}

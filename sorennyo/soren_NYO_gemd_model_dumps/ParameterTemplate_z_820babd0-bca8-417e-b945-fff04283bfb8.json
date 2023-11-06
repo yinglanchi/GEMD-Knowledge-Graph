@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1}, "description": null, "name": "z", "tags": [], "type": "parameter_template", "uids": {"auto": "820babd0-bca8-417e-b945-fff04283bfb8"}}

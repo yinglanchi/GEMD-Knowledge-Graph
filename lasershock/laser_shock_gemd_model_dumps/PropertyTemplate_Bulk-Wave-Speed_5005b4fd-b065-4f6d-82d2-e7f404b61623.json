@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "meter / second", "lower_bound": 0, "type": "real_bounds", "upper_bound": 36000.0}, "description": "The speed at which waves propagate through a material", "name": "Bulk Wave Speed", "tags": [], "type": "property_template", "uids": {"auto": "5005b4fd-b065-4f6d-82d2-e7f404b61623"}}

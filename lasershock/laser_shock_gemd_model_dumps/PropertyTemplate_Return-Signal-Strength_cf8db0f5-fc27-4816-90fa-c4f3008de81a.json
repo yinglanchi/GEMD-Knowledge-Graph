@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": -1000.0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "Power of the laser return signal (units of decibel-milliwatts, dBm, not recognized by GEMD)", "name": "Return Signal Strength", "tags": [], "type": "property_template", "uids": {"auto": "cf8db0f5-fc27-4816-90fa-c4f3008de81a"}}

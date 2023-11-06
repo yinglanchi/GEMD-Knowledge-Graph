@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["ECAE", "Rolling"], "type": "categorical_bounds"}, "description": "The type of preprocessing performed on a raw material", "name": "Preprocessing", "tags": [], "type": "condition_template", "uids": {"auto": "f9f6c86f-fd56-4e9e-8574-079136c7fd9f"}}

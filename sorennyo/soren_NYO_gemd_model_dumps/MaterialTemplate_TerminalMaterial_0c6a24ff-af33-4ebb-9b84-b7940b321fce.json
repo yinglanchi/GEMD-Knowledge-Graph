@@ -1,0 +1,43 @@
+{
+    "description": null,
+    "name": "TerminalMaterial",
+    "properties": [
+        [
+            {
+                "id": "b36df400-7b7a-4914-a88f-fff50ec3c2d1",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "fa9c490d-039c-4c23-a123-8589ccd077e8",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "f1dfd5e0-8ec2-4a0e-8e3e-dec94ed1a55f",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "07cbf22d-5816-42a2-a505-c90518c6a426",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ]
+    ],
+    "tags": [],
+    "type": "material_template",
+    "uids": {
+        "auto": "0c6a24ff-af33-4ebb-9b84-b7940b321fce"
+    }
+}

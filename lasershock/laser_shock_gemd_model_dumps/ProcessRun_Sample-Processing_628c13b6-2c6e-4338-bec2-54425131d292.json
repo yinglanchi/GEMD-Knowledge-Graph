@@ -1,0 +1,1 @@
+{"conditions": [], "file_links": [], "name": "Sample Processing", "notes": null, "parameters": [], "source": {"performed_by": "APT (Japan)", "performed_date": null, "type": "performed_source"}, "spec": {"id": "6a42742b-4a4f-4946-843e-f7c579a809be", "scope": "auto", "type": "link_by_uid"}, "tags": [], "type": "process_run", "uids": {"auto": "628c13b6-2c6e-4338-bec2-54425131d292"}}

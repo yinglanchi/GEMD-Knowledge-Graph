@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["1000", "120", "1200", "1500", "180", "1800", "2000", "240", "320", "400", "600", "800"], "type": "categorical_bounds"}, "description": "Grit of the silicon carbide pad used to polish an impact sample", "name": "Silicon Carbide Grit", "tags": [], "type": "parameter_template", "uids": {"auto": "fdfa5bfe-383c-488a-8021-c2412d03e978"}}

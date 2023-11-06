@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "degree",
+        "lower_bound": 0,
+        "type": "real_bounds",
+        "upper_bound": 360
+    },
+    "description": null,
+    "name": "2theta step",
+    "tags": [],
+    "type": "parameter_template",
+    "uids": {
+        "auto": "583e24d1-4ee5-453a-ad75-24d4b25268b3"
+    }
+}

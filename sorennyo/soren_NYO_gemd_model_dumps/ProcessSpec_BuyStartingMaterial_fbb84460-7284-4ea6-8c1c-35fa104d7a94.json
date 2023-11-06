@@ -1,0 +1,17 @@
+{
+    "conditions": [],
+    "file_links": [],
+    "name": "BuyStartingMaterial",
+    "notes": null,
+    "parameters": [],
+    "tags": [],
+    "template": {
+        "id": "565bde53-0e30-4298-a840-57ed8a8b5f17",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "type": "process_spec",
+    "uids": {
+        "auto": "fbb84460-7284-4ea6-8c1c-35fa104d7a94"
+    }
+}

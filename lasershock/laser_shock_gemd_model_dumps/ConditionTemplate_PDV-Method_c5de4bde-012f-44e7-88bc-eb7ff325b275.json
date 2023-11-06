@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Standard v1 (US)", "Standard v2 (Different Lasers)", "Time Lens"], "type": "categorical_bounds"}, "description": "The type of PDV performed", "name": "PDV Method", "tags": [], "type": "condition_template", "uids": {"auto": "c5de4bde-012f-44e7-88bc-eb7ff325b275"}}

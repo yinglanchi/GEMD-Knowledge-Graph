@@ -1,0 +1,30 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [],
+   "description": "Purchasing any particular raw material from a manufacturer",
+   "name": "Purchasing Raw Material",
+   "parameters": [
+      [
+         {
+            "id": "b106d015-b2bd-40f6-ae01-7b945567b2f0",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ],
+      [
+         {
+            "id": "f1208f5d-1f89-4caf-9246-80bf9072a35b",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "30c48a8b-9fc0-4655-a11a-b1f7dabfdcf4"
+   }
+}

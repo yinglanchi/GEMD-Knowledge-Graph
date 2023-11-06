@@ -1,0 +1,35 @@
+{
+    "absolute_quantity": {
+        "lower_bound": 1.5119,
+        "type": "uniform_real",
+        "units": "gram",
+        "upper_bound": 1.512
+    },
+    "file_links": [],
+    "labels": [],
+    "mass_fraction": null,
+    "material": {
+        "id": "639ac0c1-ebf1-4a7c-a89b-8a321b63d7ee",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "name": "ingredient_Lu2O3",
+    "notes": null,
+    "number_fraction": null,
+    "process": {
+        "id": "e005b47b-344c-49b4-aa73-8204c2744452",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "spec": {
+        "id": "423998f9-07c4-450c-86ce-1b55a725b79e",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "ingredient_run",
+    "uids": {
+        "auto": "a6755f37-5e0d-442c-9b0d-72ca931558ab"
+    },
+    "volume_fraction": null
+}

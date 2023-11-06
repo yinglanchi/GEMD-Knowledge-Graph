@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["HoloOr", "Silios"], "type": "categorical_bounds"}, "description": "The beam shaper used", "name": "Beam Shaper", "tags": [], "type": "condition_template", "uids": {"auto": "cd2de546-c0e4-467f-856e-417224a54627"}}

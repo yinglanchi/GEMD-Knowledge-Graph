@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "f9d1860e-a29c-48c3-942d-8fbda7a6881c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Synthesized NbSe2 Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "7c397e07-b34c-41bb-acf4-fb877f5f099c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "81046d91-0e99-4d9e-8ab0-422d5f772d28",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "5105d714-4dee-434a-a6d8-37511905e670"
+   },
+   "volume_fraction": null
+}

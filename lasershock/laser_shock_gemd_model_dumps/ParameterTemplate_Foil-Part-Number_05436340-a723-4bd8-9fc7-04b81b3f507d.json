@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["9709K91"], "type": "categorical_bounds"}, "description": "The manufacturer's part number for a foil that was purchased", "name": "Foil Part Number", "tags": [], "type": "parameter_template", "uids": {"auto": "05436340-a723-4bd8-9fc7-04b81b3f507d"}}

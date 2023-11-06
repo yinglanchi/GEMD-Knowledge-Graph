@@ -1,0 +1,31 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [
+      [
+         {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "description": "Sealing vessel of reaction according to desired lay out",
+   "name": "Sealing Vessel",
+   "parameters": [
+      [
+         {
+            "id": "0471f9aa-d24d-4598-ac94-02c6dd1c8d1d",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "0831649c-d4de-4729-b40d-e95fd9bbca51"
+   }
+}

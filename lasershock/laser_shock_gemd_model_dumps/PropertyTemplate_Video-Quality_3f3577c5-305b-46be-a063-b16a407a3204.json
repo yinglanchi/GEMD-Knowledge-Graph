@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Amazing", "Eh", "Good", "Great", "OK"], "type": "categorical_bounds"}, "description": "The overall quality of a collected high speed camera video", "name": "Video Quality", "tags": [], "type": "property_template", "uids": {"auto": "3f3577c5-305b-46be-a063-b16a407a3204"}}

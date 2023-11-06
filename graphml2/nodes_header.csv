@@ -1,1 +1,1 @@
-node_id:ID,sample_type,bounds,number_fraction,source,allowed_names,absolute_quantity,tags,labels,type,description,template,notes,volume_fraction,name,file_links,mass_fraction,allowed_labels,:LABEL
+node_id:ID,type,name,mass_fraction,tags,number_fraction,source,sample_type,template,volume_fraction,absolute_quantity,description,allowed_names,bounds,allowed_labels,labels,notes,file_links,:LABEL

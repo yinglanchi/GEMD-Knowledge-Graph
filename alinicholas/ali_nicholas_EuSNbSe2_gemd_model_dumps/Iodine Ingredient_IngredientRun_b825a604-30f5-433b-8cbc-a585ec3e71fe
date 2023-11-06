@@ -1,0 +1,32 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "3f5509ca-3099-4cfb-b197-5de8f63a7202",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Iodine Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "e5f6a318-d616-4b44-b7b6-9547b73d2b25",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "4767698c-c078-40b3-bef1-cd43c67d52a3",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "b825a604-30f5-433b-8cbc-a585ec3e71fe"
+   },
+   "volume_fraction": null
+}

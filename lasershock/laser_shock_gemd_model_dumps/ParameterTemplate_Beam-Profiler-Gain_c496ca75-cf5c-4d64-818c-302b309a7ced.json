@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "dimensionless", "lower_bound": 0.0, "type": "real_bounds", "upper_bound": 50.0}, "description": "The gain setting on the beam profiler (units of decibels, dB, not recognized by GEMD)", "name": "Beam Profiler Gain", "tags": [], "type": "parameter_template", "uids": {"auto": "c496ca75-cf5c-4d64-818c-302b309a7ced"}}

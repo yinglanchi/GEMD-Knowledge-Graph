@@ -1,0 +1,1 @@
+{"bounds": {"categories": ["Failed", "Successful", "Unknown"], "type": "categorical_bounds"}, "description": null, "name": "Status", "tags": [], "type": "property_template", "uids": {"auto": "f1dfd5e0-8ec2-4a0e-8e3e-dec94ed1a55f"}}

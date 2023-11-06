@@ -1,0 +1,29 @@
+{
+    "absolute_quantity": {
+        "nominal": 12.0,
+        "type": "nominal_real",
+        "units": "gram"
+    },
+    "file_links": [],
+    "labels": [],
+    "mass_fraction": null,
+    "material": {
+        "id": "8223ad46-c6ee-4ed9-a341-81678c46243d",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "name": "ingredient_bake_Na2CO3",
+    "notes": null,
+    "number_fraction": null,
+    "process": {
+        "id": "8c18c227-968f-4a27-9986-0df952638212",
+        "scope": "auto",
+        "type": "link_by_uid"
+    },
+    "tags": [],
+    "type": "ingredient_spec",
+    "uids": {
+        "auto": "30faa31c-2050-47c0-aaea-859511b9d15b"
+    },
+    "volume_fraction": null
+}

@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "degree_Celsius", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "Temperature at which a raw material is processed to produce a Laser Shock Sample", "name": "Processing Temperature", "tags": [], "type": "condition_template", "uids": {"auto": "2ae4737b-155d-4c2e-9c02-ae4b9316b29e"}}

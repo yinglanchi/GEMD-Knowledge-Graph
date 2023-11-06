@@ -1,0 +1,15 @@
+{
+    "bounds": {
+        "default_units": "dimensionless",
+        "lower_bound": 0,
+        "type": "real_bounds",
+        "upper_bound": 1000000000000000.0
+    },
+    "description": null,
+    "name": "Zero",
+    "tags": [],
+    "type": "condition_template",
+    "uids": {
+        "auto": "8aee95fe-9157-4e29-97ec-c0da500a5366"
+    }
+}

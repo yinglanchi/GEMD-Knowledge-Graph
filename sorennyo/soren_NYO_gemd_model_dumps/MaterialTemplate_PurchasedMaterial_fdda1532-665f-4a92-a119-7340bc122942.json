@@ -1,0 +1,43 @@
+{
+    "description": null,
+    "name": "PurchasedMaterial",
+    "properties": [
+        [
+            {
+                "id": "baaa4729-19b6-45f2-879c-1ecc9fd2f66f",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "4ffc81ff-8f93-4d58-9ff9-0e2e400be27c",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "b36df400-7b7a-4914-a88f-fff50ec3c2d1",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ],
+        [
+            {
+                "id": "227146e8-0c52-4645-bc24-effd95c75297",
+                "scope": "auto",
+                "type": "link_by_uid"
+            },
+            null
+        ]
+    ],
+    "tags": [],
+    "type": "material_template",
+    "uids": {
+        "auto": "fdda1532-665f-4a92-a119-7340bc122942"
+    }
+}

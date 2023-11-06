@@ -1,0 +1,1 @@
+{"bounds": {"default_units": "micrometer", "lower_bound": 0, "type": "real_bounds", "upper_bound": 1000.0}, "description": "The thickness of an impact sample in a Launch Package", "name": "Sample Thickness", "tags": [], "type": "property_template", "uids": {"auto": "ed85ad77-21c6-4f63-910b-505fe1780ed4"}}

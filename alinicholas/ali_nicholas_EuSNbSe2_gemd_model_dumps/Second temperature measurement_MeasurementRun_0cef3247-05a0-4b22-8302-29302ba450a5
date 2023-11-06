@@ -1,0 +1,93 @@
+{
+   "conditions": [
+      {
+         "file_links": [],
+         "name": "Location",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "00de68f0-57d8-42fc-b5f4-4a1f21d7dc68",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "condition",
+         "value": {
+            "category": "Three Zones Tube Furnace",
+            "type": "nominal_categorical"
+         }
+      }
+   ],
+   "file_links": [
+      {
+         "filename": "XRD Panel",
+         "type": "file_link",
+         "url": "photos/equipment/xrd_panel.jpg"
+      },
+      {
+         "filename": "Temperature measurements during EuSNb2Se4 synthesis",
+         "type": "file_link",
+         "url": "photos/temperature_measurements/01_23_2023.jpg"
+      },
+      {
+         "filename": "Notes on temperature measurements during EuSNb2Se4 synthesis",
+         "type": "file_link",
+         "url": "photos/temperature_measurements/01_23_2023_notes.jpg"
+      }
+   ],
+   "material": {
+      "id": "e5de2faa-eb8a-4dc5-ae07-88ad536ee41f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Second temperature measurement",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "Equipment Used",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "0471f9aa-d24d-4598-ac94-02c6dd1c8d1d",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "Thermocouple",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Time of Measurement",
+         "notes": " Time from the insertion of tube (i.e., beginning of the heating/end of pre-heating)",
+         "origin": "unknown",
+         "template": {
+            "id": "7b383ee6-0886-4c64-8d32-6d2debfc12e2",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 68.0,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      }
+   ],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "16163754-ab31-46e1-bdb8-3279877203f2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "01_23"
+   ],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "0cef3247-05a0-4b22-8302-29302ba450a5"
+   }
+}
